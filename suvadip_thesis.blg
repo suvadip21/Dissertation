@@ -1,13 +1,18 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: suvadip_thesis.aux
+A level-1 auxiliary file: Chapters/Intro_ch2.aux
+A level-1 auxiliary file: Chapters/Bg_ch.aux
+A level-1 auxiliary file: Chapters/T2T2_ch.aux
+A level-1 auxiliary file: Chapters/GAC_ch.aux
+A level-1 auxiliary file: Chapters/L2S_ch.aux
+A level-1 auxiliary file: Chapters/TuFF_ch.aux
+A level-1 auxiliary file: Chapters/Conclusion.aux
+A level-1 auxiliary file: Appendices/AppendixDL2S.aux
+A level-1 auxiliary file: Appendices/AppendixLDE.aux
+A level-1 auxiliary file: Appendices/AppendixTuFF.aux
 The style file: IEEEtran.bst
 Database file #1: Bibliography.bib
-Repeated entry---line 512 of file Bibliography.bib
- : @incollection{santamaria2007automatic
- :                                      ,
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-(There was 1 error message)

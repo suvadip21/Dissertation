@@ -1,0 +1,264 @@
+
+\documentclass[12pt, oneside]{Thesis} % The default font size and one-sided printing (no margin offsets)
+
+%\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+\setstretch{1.3} % Line spacing of 1.3
+%\usepackage[square, numbers, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+%\usepackage{IEEEbib}
+\hypersetup{urlcolor=black, colorlinks=false, hidelinks} % Colors hyperlinks in blue - change to black if annoying
+
+\usepackage{amsmath,amssymb}
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage{cite}
+\usepackage{todonotes}
+\usepackage[font = footnotesize]{caption}
+\usepackage{adjustbox}
+\usepackage{subfigure}
+%\usepackage{stmaryrd}
+%\usepackage{array}
+%\usepackage{bbm}
+%\usepackage{eqparbox}
+%\usepackage{frame}
+%\usepackage{float}
+%\usepackage{algorithm}
+%\usepackage[tight,footnotesize]{subfigure}
+%\usepackage{url}
+%\usepackage{epsfig}
+%\usepackage{multirow}
+%\usepackage{balance}
+%\usepackage{enumitem}
+%\usepackage{wrapfig}
+%\usepackage{booktabs}
+%\usepackage[margin=0.5in]{geometry}
+%%\usepackage{subcaption}
+%%\usepackage{graphicx}
+%\usepackage{wrapfig}
+
+
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+\includeonly{Chapters/Intro_ch2}
+
+\begin{document}
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\begin{center}
+
+\textbf{\Large Enhancement and Segmentation of Vascular Structures for Biological Image Analysis} \\[1cm] 
+
+\HRule
+
+A Dissertation \\ [0.2cm]
+Presented to \\ [0.2cm]
+The faculty of the School of Engineering and Applied Science \\ [0.2cm]
+University of Virginia 
+\HRule
+\\[1cm]
+
+
+In partial fulfillment \\ [0.2cm]
+of the requirements for the degree \\ [0.2cm]
+Doctor of Philosophy (Electrical and Computer Engineering) \\[1.5cm]
+
+by \\[1cm]
+
+\textbf{Suvadip Mukherjee} \\
+\today
+ 
+\vfill
+\end{center}
+\end{titlepage}
+
+
+%----------------------------------------------------------------------------------------
+%	Approval Sheet
+%----------------------------------------------------------------------------------------
+\clearpage
+\pagestyle{empty}
+\input{approval_sheet}
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage
+\begin{abstract}
+This is the abstract page which I will write shortly
+\end{abstract}
+
+
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\tableofcontents % Write out the Table of Contents
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+\listoftables % Write out the List of Tables
+
+
+%----------------------------------------------------------------------------------------
+%	SYMBOLS
+%----------------------------------------------------------------------------------------
+
+\clearpage % Start a new page
+
+\lhead{\emph{Symbols}} % Set the left side page header to "Symbols"
+
+\listofnomenclature{cl} % Include a list of Symbols (a three column table)
+{
+a & Scalar notation \\
+
+\textbf{a} & Vector notation \\
+
+$\left[\text{A}\right]$ & Matrix notation \\
+
+$\Omega$ & Domain of the image function ($\Omega\subset \mathbb{R}^2/\mathbb{R}^3$) \\
+
+$\textbf{x}$ & Position vector (x,y) or (x,y,z) $\in \Omega$  \\
+
+$\ast$ & Convolution operator \\
+
+$\cdot$ & Vector dot product operator \\
+
+$t$ & Scalar variable denoting time/pseudo time \\
+
+$\sigma$ & Scale parameter \\
+
+$f(\textbf{x})$ & Continuous image function,  $f:\Omega \mapsto \mathbb{R}$ \\
+
+$g_\sigma(\textbf{x})$ & Zero mean isotropic Gaussian kernel, with std. deviation $\sigma$  \\
+
+$\nabla$ & Gradient operator \\
+
+$ \text{div}(\textbf{a})$ & Divergence operator, $\nabla\cdot\textbf{a}$ \\
+
+$\nabla^2$ & Laplacian operator \\
+
+$N_\sigma(\textbf{x})$ & \textit{Vesselness} response at scale $\sigma$ \\
+
+$N(\textbf{x})$ & Scale-space \textit{vesselness} response \\
+
+$\mathcal{H}_\sigma(\textbf{x})$ & Hessian matrix of $f(\textbf{x})\ast g_\sigma(\textbf{x})$\\
+
+$\phi(\textbf{x},t)$ & Level set function, $\phi: \Omega\times \mathbb{R}^+\mapsto \mathbb{R} $ \\
+
+$H(\phi)$ & Heaviside function\\
+
+$\delta(\phi)$ & Dirac delta function\\
+
+$\textbf{C}(p)$ & Parametric curve, $p\in \{0,1 \}$ \\
+
+$\textbf{C}_t$ & $\dfrac{\partial \textbf{C} }{\partial t}$ \\
+
+$\textbf{n}$ & Unit outward normal vector to a curve \\
+
+$\textbf{t}$ & Unit tangent vector to a curve \\
+
+$\mathcal{P}_k(\textbf{x})$ & Legendre polynomial of degree k \\
+
+$\mathbb{P}(\textbf{x})= \left(\mathcal{P}_0(\textbf{x}),\ldots, \mathcal{P}_{N}(\textbf{x})\right)^T $ & Vector of Legendre polynomials \\
+
+}
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION
+%----------------------------------------------------------------------------------------
+
+\setstretch{1.8} 
+
+\pagestyle{empty} % Page style needs to be empty for this page
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+\setlength{\parindent}{2em}
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+%\input{zcom}
+%\input{Chapters/Intro_ch}
+%\input{Chapters/Bg_ch} 
+%\input{Chapters/T2T2_ch}
+%\input{Chapters/GAC_ch}
+%\input{Chapters/L2S_ch} 
+%\input{Chapters/TuFF_ch} 
+%\input{Chapters/Chapter6} 
+%\input{Chapters/Chapter7} 
+
+\input{zcom}
+\include{Chapters/Intro_ch2}
+\include{Chapters/Bg_ch} 
+\include{Chapters/T2T2_ch}
+\include{Chapters/GAC_ch}
+\include{Chapters/L2S_ch} 
+\include{Chapters/TuFF_ch} 
+
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+\input{Appendices/AppendixDL2S}
+\input{Appendices/AppendixTuFF}
+%\input{Appendices/AppendixC}
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\backmatter
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\label{Bibliography}
+
+%\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+
+%%\bibliographystyle{unsrtnat} % Use the "unsrtnat" BibTeX style for formatting the Bibliography
+\bibliographystyle{IEEEtran}
+%\bibliography{intro_bib}
+\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+
+\end{document}  

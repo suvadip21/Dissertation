@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.23)  24 MAY 2015 17:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.23)  1 AUG 2015 04:14
 entering extended mode
 **suvadip_thesis.tex
 (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.tex
@@ -678,33 +678,22 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 8.
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks32
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip65
-\subfigcapskip=\skip66
-\subfigcaptopadj=\dimen148
-\subfigbottomskip=\skip67
-\subfigcapmargin=\dimen149
-\subfiglabelskip=\skip68
-\c@subfigure=\count133
-\c@lofdepth=\count134
-\c@subtable=\count135
-\c@lotdepth=\count136
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-****************************************
-* Local config file subfigure.cfg used *
-****************************************
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
-\subfig@top=\skip69
-\subfig@bottom=\skip70
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
-Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
@@ -712,9 +701,308 @@ Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 \XKV@toks=\toks33
 \XKV@tempa@toks=\toks34
-\XKV@depth=\count137
+\XKV@depth=\count133
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box35
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count134
+\c@pgf@countb=\count135
+\c@pgf@countc=\count136
+\c@pgf@countd=\count137
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count138
+\pgfsyssoftpath@bigbuffer@items=\count139
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count140
+\pgfmath@box=\box36
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count141
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen159
+\pgf@picmaxx=\dimen160
+\pgf@picminy=\dimen161
+\pgf@picmaxy=\dimen162
+\pgf@pathminx=\dimen163
+\pgf@pathmaxx=\dimen164
+\pgf@pathminy=\dimen165
+\pgf@pathmaxy=\dimen166
+\pgf@xx=\dimen167
+\pgf@xy=\dimen168
+\pgf@yx=\dimen169
+\pgf@yy=\dimen170
+\pgf@zx=\dimen171
+\pgf@zy=\dimen172
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen173
+\pgf@path@lasty=\dimen174
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen175
+\pgf@shorten@start@additional=\dimen176
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count142
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen177
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen178
+\pgf@pt@y=\dimen179
+\pgf@pt@temp=\dimen180
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen181
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count143
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box40
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box41
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count144
+\pgfplotmarksize=\dimen187
+)
+\tikz@lastx=\dimen188
+\tikz@lasty=\dimen189
+\tikz@lastxsaved=\dimen190
+\tikz@lastysaved=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box42
+\tikz@figbox@bg=\box43
+\tikz@tempbox=\box44
+\tikz@tempbox@bg=\box45
+\tikztreelevel=\count145
+\tikznumberofchildren=\count146
+\tikznumberofcurrentchild=\count147
+\tikz@fig@count=\count148
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count149
+\pgfmatrixcurrentcolumn=\count150
+\pgf@matrix@numberofcolumns=\count151
+)
+\tikz@expandcount=\count152
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count153
+\calc@Bcount=\count154
+\calc@Adimen=\dimen194
+\calc@Bdimen=\dimen195
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count155
+\calc@Cskip=\skip67
+)
+\c@@todonotes@numberoftodonotes=\count156
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
@@ -724,50 +1012,80 @@ Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box35
+\collectedbox=\box46
 )
-\tc@llx=\dimen150
-\tc@lly=\dimen151
-\tc@urx=\dimen152
-\tc@ury=\dimen153
+\tc@llx=\dimen196
+\tc@lly=\dimen197
+\tc@urx=\dimen198
+\tc@ury=\dimen199
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen154
-\adjbox@Height=\dimen155
-\adjbox@Depth=\dimen156
-\adjbox@Totalheight=\dimen157
+\adjbox@Width=\dimen200
+\adjbox@Height=\dimen201
+\adjbox@Depth=\dimen202
+\adjbox@Totalheight=\dimen203
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
 Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
-\c@checkoddpage=\count138
+\c@checkoddpage=\count157
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box36
-\sift@deathcycles=\count139
-\@vwid@loff=\dimen158
-\@vwid@roff=\dimen159
+\@vwid@box=\box47
+\sift@deathcycles=\count158
+\@vwid@loff=\dimen204
+\@vwid@roff=\dimen205
 ))
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip68
+\subfigcapskip=\skip69
+\subfigcaptopadj=\dimen206
+\subfigbottomskip=\skip70
+\subfigcapmargin=\dimen207
+\subfiglabelskip=\skip71
+\c@subfigure=\count159
+\c@lofdepth=\count160
+\c@subtable=\count161
+\c@lotdepth=\count162
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip72
+\subfig@bottom=\skip73
+)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.aux
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Intro_ch2.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Bg_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/T2T2_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/GAC_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/L2S_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/TuFF_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Conclusion.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixDL2S.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixLDE.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixTuFF.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -782,42 +1100,43 @@ Package caption Info: End \AtBeginDocument code.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count140
-\scratchdimen=\dimen160
-\scratchbox=\box37
-\nofMPsegments=\count141
-\nofMParguments=\count142
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count143
-\MPscratchDim=\dimen161
-\MPnumerator=\count144
-\makeMPintoPDFobject=\count145
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count163
+\scratchdimen=\dimen208
+\scratchbox=\box48
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count166
+\MPscratchDim=\dimen209
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks48
 )
-\c@lstlisting=\count146
-\AtBeginShipoutBox=\box38
-Package hyperref Info: Link coloring OFF on input line 42.
+\c@lstlisting=\count169
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 43.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count170
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.out)
 (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.out)
-\@outlinefile=\write3
- [1
+\@outlinefile=\write4
+
+ABD: EveryShipout initializing macros [1
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\approval_sheet.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (C:\Users\Suvadip\Dropbox
+\Drafts\Thesis\main\approval_sheet.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
@@ -873,43 +1192,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 ------------------------------------------------------------------------------
 [2
 
-]
+] [3]
 ------------------------------------------------------------------------------
  Table of Contents
 ------------------------------------------------------------------------------
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.toc)
-\tf@toc=\write4
- [3
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.toc [4
 
 
-]
+] [5]
+[6])
+\tf@toc=\write5
+ [7]
 ------------------------------------------------------------------------------
  List of Figures
 ------------------------------------------------------------------------------
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.lof)
-\tf@lof=\write5
- [4
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.lof [8
 
 
-]
+])
+\tf@lof=\write6
+ [9]
 ------------------------------------------------------------------------------
  List of Tables
 ------------------------------------------------------------------------------
 (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.lot)
-\tf@lot=\write6
- [5
+\tf@lot=\write7
+ [10
 
 
 ]
 ------------------------------------------------------------------------------
  Symbols
 ------------------------------------------------------------------------------
-[6
+
+Overfull \hbox (17.43365pt too wide) in alignment at lines 214--214
+ [] [] 
+ []
+
+
+Overfull \hbox (17.43365pt too wide) in alignment at lines 214--214
+ [] [] 
+ []
+
+[11
 
 
 
 ] (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\zcom.tex)
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Chapter1.tex
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Intro_ch2.tex
 Chapter 1.
 ------------------------------------------------------------------------------
  1 Introduction
@@ -918,44 +1248,3348 @@ Chapter 1.
 
 
 
-] [2] [3] [4]) [5] [6]
+
+] [2] [3]
+Overfull \hbox (4.2455pt too wide) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/12 The per-ti-nent chal-lenge for global struc-tural anal-y-sis 
+is to de-velop ap-pro-pri-ate pipeline
+ []
+
+[4] <images/lowSNR_1.png, id=865, 525.46312pt x 525.46312pt>
+File: images/lowSNR_1.png Graphic file (type png)
+
+<use images/lowSNR_1.png>
+Package pdftex.def Info: images/lowSNR_1.png used on input line 55.
+(pdftex.def)             Requested size: 131.54329pt x 131.54184pt.
+
+<images/lowSNR_2.png, id=867, 525.46312pt x 525.46312pt>
+File: images/lowSNR_2.png Graphic file (type png)
+
+<use images/lowSNR_2.png>
+Package pdftex.def Info: images/lowSNR_2.png used on input line 56.
+(pdftex.def)             Requested size: 131.54329pt x 131.54184pt.
+
+<images/lowSNR_3.png, id=868, 525.46312pt x 525.46312pt>
+File: images/lowSNR_3.png Graphic file (type png)
+
+<use images/lowSNR_3.png>
+Package pdftex.def Info: images/lowSNR_3.png used on input line 57.
+(pdftex.def)             Requested size: 131.54329pt x 131.54184pt.
+ [5] [6 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/lowSNR_1.png> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/lowSNR_2.png> <C:/Users/Suvadip/
+Dropbox/Drafts/Thesis/main/images/lowSNR_3.png>]
+[7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 125.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+ [8] [9]) [10]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Bg_ch.tex
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Background
+------------------------------------------------------------------------------
+[11
+
+
+
+] [12] <images/3D_demo.png, id=932, 434.1018pt x 204.2832pt>
+File: images/3D_demo.png Graphic file (type png)
+
+<use images/3D_demo.png>
+Package pdftex.def Info: images/3D_demo.png used on input line 30.
+(pdftex.def)             Requested size: 362.88783pt x 170.77066pt.
+ [13 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_demo.png>] [14] [15
+] [16] [17] [18] [19]) [20]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/T2T2_ch.tex
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Graph Based Neuron Tracing
+------------------------------------------------------------------------------
+<./images/ch3/T2T2_pipeline.jpg, id=1035, 569.87906pt x 173.14688pt>
+File: ./images/ch3/T2T2_pipeline.jpg Graphic file (type jpg)
+
+<use ./images/ch3/T2T2_pipeline.jpg>
+Package pdftex.def Info: ./images/ch3/T2T2_pipeline.jpg used on input line 14.
+(pdftex.def)             Requested size: 362.88783pt x 110.25615pt.
+ [21
+
+
+
+]
+<images/ch2/3dvessel.png, id=1042, 370.986pt x 211.992pt>
+File: images/ch2/3dvessel.png Graphic file (type png)
+
+<use images/ch2/3dvessel.png>
+Package pdftex.def Info: images/ch2/3dvessel.png used on input line 36.
+(pdftex.def)             Requested size: 136.0838pt x 77.75974pt.
+
+<images/ch2/vessel.png, id=1043, 186.6975pt x 145.29282pt>
+File: images/ch2/vessel.png Graphic file (type png)
+
+<use images/ch2/vessel.png>
+Package pdftex.def Info: images/ch2/vessel.png used on input line 37.
+(pdftex.def)             Requested size: 113.40201pt x 88.25159pt.
+
+<images/ch2/vessel_mesh.png, id=1044, 601.4972pt x 435.12563pt>
+File: images/ch2/vessel_mesh.png Graphic file (type png)
+
+<use images/ch2/vessel_mesh.png>
+Package pdftex.def Info: images/ch2/vessel_mesh.png used on input line 38.
+(pdftex.def)             Requested size: 136.0838pt x 98.44347pt.
+
+<images/ch2/orig.png, id=1045, 424.58624pt x 406.51875pt>
+File: images/ch2/orig.png Graphic file (type png)
+
+<use images/ch2/orig.png>
+Package pdftex.def Info: images/ch2/orig.png used on input line 40.
+(pdftex.def)             Requested size: 127.0097pt x 121.60298pt.
+
+<images/ch2/F1.png, id=1046, 424.58624pt x 406.51875pt>
+File: images/ch2/F1.png Graphic file (type png)
+
+<use images/ch2/F1.png>
+Package pdftex.def Info: images/ch2/F1.png used on input line 41.
+(pdftex.def)             Requested size: 127.0097pt x 121.60298pt.
+
+<images/ch2/F2.png, id=1047, 424.58624pt x 406.51875pt>
+File: images/ch2/F2.png Graphic file (type png)
+
+<use images/ch2/F2.png>
+Package pdftex.def Info: images/ch2/F2.png used on input line 42.
+(pdftex.def)             Requested size: 127.0097pt x 121.60298pt.
+ [22 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_pipeline.jpg>
+] [23 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch2/3dvessel.png> <C:
+/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch2/vessel.png (PNG copy)> <C:
+/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch2/vessel_mesh.png> <C:/Users
+/Suvadip/Dropbox/Drafts/Thesis/main/images/ch2/orig.png (PNG copy)> <C:/Users/S
+uvadip/Dropbox/Drafts/Thesis/main/images/ch2/F1.png (PNG copy)> <C:/Users/Suvad
+ip/Dropbox/Drafts/Thesis/main/images/ch2/F2.png (PNG copy)>] <./images/ch3/raw_
+demo.png, id=1066, 144.54pt x 122.859pt>
+File: ./images/ch3/raw_demo.png Graphic file (type png)
+
+<use ./images/ch3/raw_demo.png>
+Package pdftex.def Info: ./images/ch3/raw_demo.png used on input line 75.
+(pdftex.def)             Requested size: 136.09035pt x 113.40843pt.
+
+<./images/ch3/hessian_demo.png, id=1067, 158.5122pt x 122.859pt>
+File: ./images/ch3/hessian_demo.png Graphic file (type png)
+
+<use ./images/ch3/hessian_demo.png>
+Package pdftex.def Info: ./images/ch3/hessian_demo.png used on input line 76.
+(pdftex.def)             Requested size: 136.0929pt x 113.40843pt.
+
+<./images/ch3/binary_demo.png, id=1068, 156.585pt x 122.859pt>
+File: ./images/ch3/binary_demo.png Graphic file (type png)
+
+<use ./images/ch3/binary_demo.png>
+Package pdftex.def Info: ./images/ch3/binary_demo.png used on input line 77.
+(pdftex.def)             Requested size: 136.08926pt x 113.40843pt.
+ [24] [25 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/raw_demo.png>
+ <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/hessian_demo.png> <C:/
+Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/binary_demo.png>] [26]
+<./images/graph_connectivity_a.png, id=1107, 701.019pt x 253.9086pt>
+File: ./images/graph_connectivity_a.png Graphic file (type png)
+
+<use ./images/graph_connectivity_a.png>
+Package pdftex.def Info: ./images/graph_connectivity_a.png used on input line 1
+20.
+(pdftex.def)             Requested size: 281.23479pt x 101.86383pt.
+
+<./images/graph_connectivity_b.png, id=1108, 325.215pt x 176.15813pt>
+File: ./images/graph_connectivity_b.png Graphic file (type png)
+
+<use ./images/graph_connectivity_b.png>
+Package pdftex.def Info: ./images/graph_connectivity_b.png used on input line 1
+21.
+(pdftex.def)             Requested size: 136.0838pt x 73.71442pt.
+ [27 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/graph_connectivity_a.p
+ng> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/graph_connectivity_b.pn
+g>] [28] [29]
+<./images/VFC/medialness.png, id=1143, 471.6822pt x 212.4738pt>
+File: ./images/VFC/medialness.png Graphic file (type png)
+
+<use ./images/VFC/medialness.png>
+Package pdftex.def Info: ./images/VFC/medialness.png used on input line 167.
+(pdftex.def)             Requested size: 453.60808pt x 204.34212pt.
+ [30 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/VFC/medialness.png>] [
+31]
+<images/ch3/clutter1.png, id=1162, 158.994pt x 158.994pt>
+File: images/ch3/clutter1.png Graphic file (type png)
+
+<use images/ch3/clutter1.png>
+Package pdftex.def Info: images/ch3/clutter1.png used on input line 202.
+(pdftex.def)             Requested size: 181.44046pt x 181.44911pt.
+
+<images/ch3/clutter1_pruned.png, id=1163, 156.6945pt x 156.6945pt>
+File: images/ch3/clutter1_pruned.png Graphic file (type png)
+
+<use images/ch3/clutter1_pruned.png>
+Package pdftex.def Info: images/ch3/clutter1_pruned.png used on input line 203.
+
+(pdftex.def)             Requested size: 181.44046pt x 181.44774pt.
+
+<images/ch3/clutter2.png, id=1164, 157.68pt x 157.68pt>
+File: images/ch3/clutter2.png Graphic file (type png)
+
+<use images/ch3/clutter2.png>
+Package pdftex.def Info: images/ch3/clutter2.png used on input line 204.
+(pdftex.def)             Requested size: 181.44046pt x 181.44846pt.
+
+<images/ch3/clutter2_pruned.png, id=1165, 157.68pt x 157.68pt>
+File: images/ch3/clutter2_pruned.png Graphic file (type png)
+
+<use images/ch3/clutter2_pruned.png>
+Package pdftex.def Info: images/ch3/clutter2_pruned.png used on input line 205.
+
+(pdftex.def)             Requested size: 181.44046pt x 181.44846pt.
+ [32]
+<images/ch3/broken.jpg, id=1172, 93.6225pt x 70.299pt>
+File: images/ch3/broken.jpg Graphic file (type jpg)
+
+<use images/ch3/broken.jpg>
+Package pdftex.def Info: images/ch3/broken.jpg used on input line 219.
+(pdftex.def)             Requested size: 181.44046pt x 136.25758pt.
+
+<images/ch3/connected.jpg, id=1173, 97.236pt x 70.299pt>
+File: images/ch3/connected.jpg Graphic file (type jpg)
+
+<use images/ch3/connected.jpg>
+Package pdftex.def Info: images/ch3/connected.jpg used on input line 220.
+(pdftex.def)             Requested size: 189.48625pt x 136.99052pt.
+
+<images/ch3/n4.jpg, id=1174, 363.60844pt x 295.85532pt>
+File: images/ch3/n4.jpg Graphic file (type jpg)
+
+<use images/ch3/n4.jpg>
+Package pdftex.def Info: images/ch3/n4.jpg used on input line 221.
+(pdftex.def)             Requested size: 181.44046pt x 147.63385pt.
+
+<images/ch3/n4_VFC.jpg, id=1175, 412.54124pt x 331.2375pt>
+File: images/ch3/n4_VFC.jpg Graphic file (type jpg)
+
+<use images/ch3/n4_VFC.jpg>
+Package pdftex.def Info: images/ch3/n4_VFC.jpg used on input line 222.
+(pdftex.def)             Requested size: 181.44046pt x 145.6843pt.
+
+<images/ch3/n7.jpg, id=1176, 372.64218pt x 244.66406pt>
+File: images/ch3/n7.jpg Graphic file (type jpg)
+
+<use images/ch3/n7.jpg>
+Package pdftex.def Info: images/ch3/n7.jpg used on input line 223.
+(pdftex.def)             Requested size: 181.44046pt x 119.12485pt.
+
+<images/ch3/n7_VFC.jpg, id=1177, 356.83313pt x 258.9675pt>
+File: images/ch3/n7_VFC.jpg Graphic file (type jpg)
+
+<use images/ch3/n7_VFC.jpg>
+Package pdftex.def Info: images/ch3/n7_VFC.jpg used on input line 224.
+(pdftex.def)             Requested size: 181.44046pt x 131.67651pt.
+ [33 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/clutter1.png> <C:/
+Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/clutter1_pruned.png> <C:/Us
+ers/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/clutter2.png> <C:/Users/Suvad
+ip/Dropbox/Drafts/Thesis/main/images/ch3/clutter2_pruned.png>] <images/ch3/T2T2
+_3D1_org.png, id=1183, 526.21594pt x 526.96875pt>
+File: images/ch3/T2T2_3D1_org.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D1_org.png>
+Package pdftex.def Info: images/ch3/T2T2_3D1_org.png used on input line 235.
+(pdftex.def)             Requested size: 181.44046pt x 181.69987pt.
+
+<images/ch3/T2T2_3D1.png, id=1184, 524.71031pt x 524.71031pt>
+File: images/ch3/T2T2_3D1.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D1.png>
+Package pdftex.def Info: images/ch3/T2T2_3D1.png used on input line 236.
+(pdftex.def)             Requested size: 181.44157pt x 181.44046pt.
+
+<images/ch3/T2T2_3D2_org.png, id=1185, 524.71031pt x 525.46312pt>
+File: images/ch3/T2T2_3D2_org.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D2_org.png>
+Package pdftex.def Info: images/ch3/T2T2_3D2_org.png used on input line 237.
+(pdftex.def)             Requested size: 181.44046pt x 181.7019pt.
+
+<images/ch3/T2T2_3D2.png, id=1186, 526.21594pt x 526.21594pt>
+File: images/ch3/T2T2_3D2.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D2.png>
+Package pdftex.def Info: images/ch3/T2T2_3D2.png used on input line 238.
+(pdftex.def)             Requested size: 181.44046pt x 181.4403pt.
+
+<images/ch3/T2T2_3D3_orig.png, id=1187, 525.46312pt x 526.96875pt>
+File: images/ch3/T2T2_3D3_orig.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D3_orig.png>
+Package pdftex.def Info: images/ch3/T2T2_3D3_orig.png used on input line 239.
+(pdftex.def)             Requested size: 181.44046pt x 181.95718pt.
+
+<images/ch3/T2T2_3D3.png, id=1188, 526.96875pt x 526.21594pt>
+File: images/ch3/T2T2_3D3.png Graphic file (type png)
+
+<use images/ch3/T2T2_3D3.png>
+Package pdftex.def Info: images/ch3/T2T2_3D3.png used on input line 240.
+(pdftex.def)             Requested size: 181.44046pt x 181.18336pt.
+ [34 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/broken.jpg> <C:/Us
+ers/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/connected.jpg> <C:/Users/Suva
+dip/Dropbox/Drafts/Thesis/main/images/ch3/n4.jpg> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/ch3/n4_VFC.jpg> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/
+main/images/ch3/n7.jpg> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3
+/n7_VFC.jpg>] [35] [36 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/
+T2T2_3D1_org.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_
+3D1.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_3D2_org.p
+ng> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_3D2.png> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_3D3_orig.png> <C:/Users
+/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/T2T2_3D3.png>] <images/ch3/error
+1.png, id=1213, 150.3216pt x 150.3216pt>
+File: images/ch3/error1.png Graphic file (type png)
+
+<use images/ch3/error1.png>
+Package pdftex.def Info: images/ch3/error1.png used on input line 258.
+(pdftex.def)             Requested size: 204.12224pt x 204.13187pt.
+
+<images/ch3/error2.png, id=1214, 214.401pt x 213.9192pt>
+File: images/ch3/error2.png Graphic file (type png)
+
+<use images/ch3/error2.png>
+Package pdftex.def Info: images/ch3/error2.png used on input line 259.
+(pdftex.def)             Requested size: 204.59253pt x 204.12224pt.
+ [37
+
+] [38 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/error1.png> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/ch3/error2.png>]) [39]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/GAC_ch.tex
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Geometric Active Contours
+------------------------------------------------------------------------------
+[40
+
+
+
+] [41] [42]
+<images/demo/curvature_flow/curvature_flow5.png, id=1255, 150.5625pt x 150.5625
+pt>
+File: images/demo/curvature_flow/curvature_flow5.png Graphic file (type png)
+ <use images/demo/curvature_flow/curvature_flow5.png>
+Package pdftex.def Info: images/demo/curvature_flow/curvature_flow5.png used on
+ input line 52.
+(pdftex.def)             Requested size: 99.79433pt x 99.79886pt.
+
+<images/demo/curvature_flow/curvature_flow6.png, id=1256, 150.5625pt x 150.5625
+pt>
+File: images/demo/curvature_flow/curvature_flow6.png Graphic file (type png)
+ <use images/demo/curvature_flow/curvature_flow6.png>
+Package pdftex.def Info: images/demo/curvature_flow/curvature_flow6.png used on
+ input line 53.
+(pdftex.def)             Requested size: 99.79433pt x 99.79886pt.
+
+<images/demo/curvature_flow/curvature_flow7.png, id=1257, 150.5625pt x 150.5625
+pt>
+File: images/demo/curvature_flow/curvature_flow7.png Graphic file (type png)
+ <use images/demo/curvature_flow/curvature_flow7.png>
+Package pdftex.def Info: images/demo/curvature_flow/curvature_flow7.png used on
+ input line 54.
+(pdftex.def)             Requested size: 99.79433pt x 99.79886pt.
+
+<images/demo/curvature_flow/curvature_flow8.png, id=1258, 150.5625pt x 150.5625
+pt>
+File: images/demo/curvature_flow/curvature_flow8.png Graphic file (type png)
+ <use images/demo/curvature_flow/curvature_flow8.png>
+Package pdftex.def Info: images/demo/curvature_flow/curvature_flow8.png used on
+ input line 55.
+(pdftex.def)             Requested size: 99.79433pt x 99.79886pt.
+ [43 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/curvature_flow/cu
+rvature_flow5.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/imag
+es/demo/curvature_flow/curvature_flow6.png (PNG copy)> <C:/Users/Suvadip/Dropbo
+x/Drafts/Thesis/main/images/demo/curvature_flow/curvature_flow7.png (PNG copy)>
+ <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/curvature_flow/curvat
+ure_flow8.png (PNG copy)>] <images/demo/GAC/blobs_gaussian.png, id=1274, 172.64
+5pt x 142.5325pt>
+File: images/demo/GAC/blobs_gaussian.png Graphic file (type png)
+
+<use images/demo/GAC/blobs_gaussian.png>
+Package pdftex.def Info: images/demo/GAC/blobs_gaussian.png used on input line 
+76.
+(pdftex.def)             Requested size: 136.0838pt x 112.34932pt.
+
+<images/demo/GAC/malladi_bad.png, id=1275, 258.9675pt x 213.79875pt>
+File: images/demo/GAC/malladi_bad.png Graphic file (type png)
+
+<use images/demo/GAC/malladi_bad.png>
+Package pdftex.def Info: images/demo/GAC/malladi_bad.png used on input line 77.
+
+(pdftex.def)             Requested size: 136.0838pt x 112.35367pt.
+
+<images/demo/GAC/GAC_good.png, id=1276, 258.9675pt x 213.79875pt>
+File: images/demo/GAC/GAC_good.png Graphic file (type png)
+
+<use images/demo/GAC/GAC_good.png>
+Package pdftex.def Info: images/demo/GAC/GAC_good.png used on input line 78.
+(pdftex.def)             Requested size: 136.0838pt x 112.35367pt.
+ [44 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GAC/blobs_gaussia
+n.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GAC/
+malladi_bad.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/demo/GAC/GAC_good.png (PNG copy)>] [45]
+[46] [47] [48] [49] [50] [51] [52]
+<images/demo/GACvsCV/disk.png, id=1403, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/disk.png Graphic file (type png)
+
+<use images/demo/GACvsCV/disk.png>
+Package pdftex.def Info: images/demo/GACvsCV/disk.png used on input line 223.
+(pdftex.def)             Requested size: 136.0838pt x 136.08344pt.
+
+<images/demo/GACvsCV/GAC_disc.png, id=1404, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/GAC_disc.png Graphic file (type png)
+
+<use images/demo/GACvsCV/GAC_disc.png>
+Package pdftex.def Info: images/demo/GACvsCV/GAC_disc.png used on input line 22
+4.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/CV_disc.png, id=1405, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/CV_disc.png Graphic file (type png)
+
+<use images/demo/GACvsCV/CV_disc.png>
+Package pdftex.def Info: images/demo/GACvsCV/CV_disc.png used on input line 225
+.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/inhom.png, id=1406, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/inhom.png Graphic file (type png)
+
+<use images/demo/GACvsCV/inhom.png>
+Package pdftex.def Info: images/demo/GACvsCV/inhom.png used on input line 226.
+(pdftex.def)             Requested size: 136.0838pt x 136.08344pt.
+
+<images/demo/GACvsCV/GAC_inhom.png, id=1407, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/GAC_inhom.png Graphic file (type png)
+
+<use images/demo/GACvsCV/GAC_inhom.png>
+Package pdftex.def Info: images/demo/GACvsCV/GAC_inhom.png used on input line 2
+27.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/CV_inhom.png, id=1408, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/CV_inhom.png Graphic file (type png)
+
+<use images/demo/GACvsCV/CV_inhom.png>
+Package pdftex.def Info: images/demo/GACvsCV/CV_inhom.png used on input line 22
+8.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/gauss.png, id=1409, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/gauss.png Graphic file (type png)
+
+<use images/demo/GACvsCV/gauss.png>
+Package pdftex.def Info: images/demo/GACvsCV/gauss.png used on input line 229.
+(pdftex.def)             Requested size: 136.0838pt x 136.08344pt.
+
+<images/demo/GACvsCV/GAC_gauss.png, id=1410, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/GAC_gauss.png Graphic file (type png)
+
+<use images/demo/GACvsCV/GAC_gauss.png>
+Package pdftex.def Info: images/demo/GACvsCV/GAC_gauss.png used on input line 2
+30.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/CV_gauss.png, id=1411, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/CV_gauss.png Graphic file (type png)
+
+<use images/demo/GACvsCV/CV_gauss.png>
+Package pdftex.def Info: images/demo/GACvsCV/CV_gauss.png used on input line 23
+1.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/gauss_noisy.png, id=1412, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/gauss_noisy.png Graphic file (type png)
+
+<use images/demo/GACvsCV/gauss_noisy.png>
+Package pdftex.def Info: images/demo/GACvsCV/gauss_noisy.png used on input line
+ 232.
+(pdftex.def)             Requested size: 136.0838pt x 136.08344pt.
+
+<images/demo/GACvsCV/GAC_gauss_noisy.png, id=1413, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/GAC_gauss_noisy.png Graphic file (type png)
+
+<use images/demo/GACvsCV/GAC_gauss_noisy.png>
+Package pdftex.def Info: images/demo/GACvsCV/GAC_gauss_noisy.png used on input 
+line 233.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+
+<images/demo/GACvsCV/CV_gauss_noisy.png, id=1414, 200.61156pt x 200.61156pt>
+File: images/demo/GACvsCV/CV_gauss_noisy.png Graphic file (type png)
+
+<use images/demo/GACvsCV/CV_gauss_noisy.png>
+Package pdftex.def Info: images/demo/GACvsCV/CV_gauss_noisy.png used on input l
+ine 234.
+(pdftex.def)             Requested size: 136.08344pt x 136.0838pt.
+ [53] [54 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GACvsCV/disk
+.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GACvs
+CV/GAC_disc.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/demo/GACvsCV/CV_disc.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/m
+ain/images/demo/GACvsCV/inhom.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/
+Thesis/main/images/demo/GACvsCV/GAC_inhom.png (PNG copy)> <C:/Users/Suvadip/Dro
+pbox/Drafts/Thesis/main/images/demo/GACvsCV/CV_inhom.png (PNG copy)> <C:/Users/
+Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GACvsCV/gauss.png (PNG copy)> <C
+:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GACvsCV/GAC_gauss.png (P
+NG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/GACvsCV/CV_g
+auss.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/demo/G
+ACvsCV/gauss_noisy.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main
+/images/demo/GACvsCV/GAC_gauss_noisy.png (PNG copy)> <C:/Users/Suvadip/Dropbox/
+Drafts/Thesis/main/images/demo/GACvsCV/CV_gauss_noisy.png (PNG copy)>]
+<images/L2S_compare/orig_1.png, id=1431, 258.9675pt x 242.40562pt>
+File: images/L2S_compare/orig_1.png Graphic file (type png)
+
+<use images/L2S_compare/orig_1.png>
+Package pdftex.def Info: images/L2S_compare/orig_1.png used on input line 248.
+(pdftex.def)             Requested size: 136.0838pt x 127.3869pt.
+
+<images/L2S_compare/GAC_1.png, id=1432, 258.9675pt x 242.40562pt>
+File: images/L2S_compare/GAC_1.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_1.png>
+Package pdftex.def Info: images/L2S_compare/GAC_1.png used on input line 249.
+(pdftex.def)             Requested size: 136.0838pt x 127.3869pt.
+
+<images/L2S_compare/CV_1.png, id=1433, 258.9675pt x 242.40562pt>
+File: images/L2S_compare/CV_1.png Graphic file (type png)
+
+<use images/L2S_compare/CV_1.png>
+Package pdftex.def Info: images/L2S_compare/CV_1.png used on input line 250.
+(pdftex.def)             Requested size: 136.0838pt x 127.3869pt.
+
+<images/L2S_compare/orig_4.png, id=1434, 167.87718pt x 165.61874pt>
+File: images/L2S_compare/orig_4.png Graphic file (type png)
+
+<use images/L2S_compare/orig_4.png>
+Package pdftex.def Info: images/L2S_compare/orig_4.png used on input line 251.
+(pdftex.def)             Requested size: 136.0838pt x 134.25404pt.
+
+<images/L2S_compare/GAC_4.png, id=1435, 167.87718pt x 165.61874pt>
+File: images/L2S_compare/GAC_4.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_4.png>
+Package pdftex.def Info: images/L2S_compare/GAC_4.png used on input line 252.
+(pdftex.def)             Requested size: 136.0838pt x 134.25404pt.
+
+<images/L2S_compare/CV_4.png, id=1436, 167.87718pt x 165.61874pt>
+File: images/L2S_compare/CV_4.png Graphic file (type png)
+
+<use images/L2S_compare/CV_4.png>
+Package pdftex.def Info: images/L2S_compare/CV_4.png used on input line 253.
+(pdftex.def)             Requested size: 136.0838pt x 134.25404pt.
+
+<images/L2S_compare/orig_5.png, id=1437, 194.97844pt x 249.93375pt>
+File: images/L2S_compare/orig_5.png Graphic file (type png)
+
+<use images/L2S_compare/orig_5.png>
+Package pdftex.def Info: images/L2S_compare/orig_5.png used on input line 254.
+(pdftex.def)             Requested size: 136.0838pt x 174.4452pt.
+
+<images/L2S_compare/GAC_5.png, id=1438, 194.97844pt x 249.93375pt>
+File: images/L2S_compare/GAC_5.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_5.png>
+Package pdftex.def Info: images/L2S_compare/GAC_5.png used on input line 255.
+(pdftex.def)             Requested size: 136.0838pt x 174.4452pt.
+
+<images/L2S_compare/CV_5.png, id=1439, 194.97844pt x 249.93375pt>
+File: images/L2S_compare/CV_5.png Graphic file (type png)
+
+<use images/L2S_compare/CV_5.png>
+Package pdftex.def Info: images/L2S_compare/CV_5.png used on input line 256.
+(pdftex.def)             Requested size: 136.0838pt x 174.4452pt.
+ [55
+
+] [56 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare/orig_1.pn
+g (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare/G
+AC_1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_co
+mpare/CV_1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+L2S_compare/orig_4.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main
+/images/L2S_compare/GAC_4.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thes
+is/main/images/L2S_compare/CV_4.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Draft
+s/Thesis/main/images/L2S_compare/orig_5.png (PNG copy)> <C:/Users/Suvadip/Dropb
+ox/Drafts/Thesis/main/images/L2S_compare/GAC_5.png (PNG copy)> <C:/Users/Suvadi
+p/Dropbox/Drafts/Thesis/main/images/L2S_compare/CV_5.png (PNG copy)>]) [57]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/L2S_ch.tex
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Region based segmentation in presence of inhomogeneity
+------------------------------------------------------------------------------
+[58
+
+
+
+] [59] [60] [61] [62]
+Overfull \hbox (9.5149pt too wide) in paragraph at lines 73--75
+\OT1/cmr/m/n/12 prod-uct of the one di-men-sional coun-ter-parts. The 2-D poly-
+no-mial is com-puted as $\OMS/cmsy/m/n/12 P[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+x; y\OT1/cmr/m/n/12 ) =$
+ []
+
+<./images/Bases_color/1.png, id=1515, 326.72063pt x 257.46187pt>
+File: ./images/Bases_color/1.png Graphic file (type png)
+
+<use ./images/Bases_color/1.png>
+Package pdftex.def Info: ./images/Bases_color/1.png used on input line 87.
+(pdftex.def)             Requested size: 136.0838pt x 107.2336pt.
+
+<./images/Bases_color/2.png, id=1516, 325.96782pt x 257.46187pt>
+File: ./images/Bases_color/2.png Graphic file (type png)
+
+<use ./images/Bases_color/2.png>
+Package pdftex.def Info: ./images/Bases_color/2.png used on input line 88.
+(pdftex.def)             Requested size: 136.0838pt x 107.48503pt.
+
+<./images/Bases_color/3.png, id=1517, 325.215pt x 257.46187pt>
+File: ./images/Bases_color/3.png Graphic file (type png)
+
+<use ./images/Bases_color/3.png>
+Package pdftex.def Info: ./images/Bases_color/3.png used on input line 89.
+(pdftex.def)             Requested size: 136.0838pt x 107.73645pt.
+
+<./images/Bases_color/4.png, id=1518, 325.96782pt x 257.46187pt>
+File: ./images/Bases_color/4.png Graphic file (type png)
+
+<use ./images/Bases_color/4.png>
+Package pdftex.def Info: ./images/Bases_color/4.png used on input line 90.
+(pdftex.def)             Requested size: 136.0838pt x 107.48503pt.
+
+<./images/Bases_color/5.png, id=1519, 326.72063pt x 258.21469pt>
+File: ./images/Bases_color/5.png Graphic file (type png)
+
+<use ./images/Bases_color/5.png>
+Package pdftex.def Info: ./images/Bases_color/5.png used on input line 91.
+(pdftex.def)             Requested size: 136.0838pt x 107.54715pt.
+
+<./images/Bases_color/6.png, id=1520, 327.47343pt x 257.46187pt>
+File: ./images/Bases_color/6.png Graphic file (type png)
+
+<use ./images/Bases_color/6.png>
+Package pdftex.def Info: ./images/Bases_color/6.png used on input line 92.
+(pdftex.def)             Requested size: 136.0838pt x 106.99004pt.
+
+<./images/Bases_color/7.png, id=1521, 328.97906pt x 259.7203pt>
+File: ./images/Bases_color/7.png Graphic file (type png)
+
+<use ./images/Bases_color/7.png>
+Package pdftex.def Info: ./images/Bases_color/7.png used on input line 93.
+(pdftex.def)             Requested size: 136.0838pt x 107.43713pt.
+
+<./images/Bases_color/8.png, id=1522, 328.22626pt x 258.21469pt>
+File: ./images/Bases_color/8.png Graphic file (type png)
+
+<use ./images/Bases_color/8.png>
+Package pdftex.def Info: ./images/Bases_color/8.png used on input line 94.
+(pdftex.def)             Requested size: 136.0838pt x 107.0586pt.
+
+<./images/Bases_color/9.png, id=1523, 326.72063pt x 258.9675pt>
+File: ./images/Bases_color/9.png Graphic file (type png)
+
+<use ./images/Bases_color/9.png>
+Package pdftex.def Info: ./images/Bases_color/9.png used on input line 95.
+(pdftex.def)             Requested size: 136.0838pt x 107.86069pt.
+ [63] [64 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/Bases_color/1.png
+> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/Bases_color/2.png> <C:/Us
+ers/Suvadip/Dropbox/Drafts/Thesis/main/images/Bases_color/3.png> <C:/Users/Suva
+dip/Dropbox/Drafts/Thesis/main/images/Bases_color/4.png> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/Bases_color/5.png> <C:/Users/Suvadip/Dropbox/Draf
+ts/Thesis/main/images/Bases_color/6.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesi
+s/main/images/Bases_color/7.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/Bases_color/8.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/Ba
+ses_color/9.png>] [65] [66]
+<images/L2S_compare/orig_2.png, id=1573, 204.01219pt x 210.7875pt>
+File: images/L2S_compare/orig_2.png Graphic file (type png)
+
+<use images/L2S_compare/orig_2.png>
+Package pdftex.def Info: images/L2S_compare/orig_2.png used on input line 164.
+(pdftex.def)             Requested size: 108.86842pt x 112.48555pt.
+
+<images/L2S_compare/GAC_2.png, id=1574, 204.01219pt x 210.7875pt>
+File: images/L2S_compare/GAC_2.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_2.png>
+Package pdftex.def Info: images/L2S_compare/GAC_2.png used on input line 165.
+(pdftex.def)             Requested size: 108.86842pt x 112.48555pt.
+
+<images/L2S_compare/CV_2.png, id=1575, 204.01219pt x 210.7875pt>
+File: images/L2S_compare/CV_2.png Graphic file (type png)
+
+<use images/L2S_compare/CV_2.png>
+Package pdftex.def Info: images/L2S_compare/CV_2.png used on input line 166.
+(pdftex.def)             Requested size: 108.86842pt x 112.48555pt.
+
+<images/L2S_compare/L2S_2.png, id=1576, 204.01219pt x 210.7875pt>
+File: images/L2S_compare/L2S_2.png Graphic file (type png)
+
+<use images/L2S_compare/L2S_2.png>
+Package pdftex.def Info: images/L2S_compare/L2S_2.png used on input line 167.
+(pdftex.def)             Requested size: 108.86842pt x 112.48555pt.
+File: images/L2S_compare/orig_1.png Graphic file (type png)
+ <use images/L2S_compare/orig_1.png>
+Package pdftex.def Info: images/L2S_compare/orig_1.png used on input line 174.
+(pdftex.def)             Requested size: 108.86842pt x 101.90582pt.
+File: images/L2S_compare/GAC_1.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_1.png>
+Package pdftex.def Info: images/L2S_compare/GAC_1.png used on input line 175.
+(pdftex.def)             Requested size: 108.86842pt x 101.90582pt.
+File: images/L2S_compare/CV_1.png Graphic file (type png)
+ <use images/L2S_compare/CV_1.png>
+Package pdftex.def Info: images/L2S_compare/CV_1.png used on input line 176.
+(pdftex.def)             Requested size: 108.86842pt x 101.90582pt.
+
+<images/L2S_compare/L2S_1.png, id=1577, 258.9675pt x 242.40562pt>
+File: images/L2S_compare/L2S_1.png Graphic file (type png)
+
+<use images/L2S_compare/L2S_1.png>
+Package pdftex.def Info: images/L2S_compare/L2S_1.png used on input line 177.
+(pdftex.def)             Requested size: 108.86842pt x 101.90582pt.
+File: images/L2S_compare/orig_4.png Graphic file (type png)
+ <use images/L2S_compare/orig_4.png>
+Package pdftex.def Info: images/L2S_compare/orig_4.png used on input line 179.
+(pdftex.def)             Requested size: 108.86842pt x 107.40324pt.
+File: images/L2S_compare/GAC_4.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_4.png>
+Package pdftex.def Info: images/L2S_compare/GAC_4.png used on input line 180.
+(pdftex.def)             Requested size: 108.86842pt x 107.40324pt.
+File: images/L2S_compare/CV_4.png Graphic file (type png)
+ <use images/L2S_compare/CV_4.png>
+Package pdftex.def Info: images/L2S_compare/CV_4.png used on input line 181.
+(pdftex.def)             Requested size: 108.86842pt x 107.40324pt.
+
+<images/L2S_compare/L2S_4.png, id=1578, 167.87718pt x 165.61874pt>
+File: images/L2S_compare/L2S_4.png Graphic file (type png)
+
+<use images/L2S_compare/L2S_4.png>
+Package pdftex.def Info: images/L2S_compare/L2S_4.png used on input line 182.
+(pdftex.def)             Requested size: 108.86842pt x 107.40324pt.
+File: images/L2S_compare/orig_5.png Graphic file (type png)
+ <use images/L2S_compare/orig_5.png>
+Package pdftex.def Info: images/L2S_compare/orig_5.png used on input line 184.
+(pdftex.def)             Requested size: 108.86842pt x 139.55388pt.
+File: images/L2S_compare/GAC_5.png Graphic file (type png)
+
+<use images/L2S_compare/GAC_5.png>
+Package pdftex.def Info: images/L2S_compare/GAC_5.png used on input line 185.
+(pdftex.def)             Requested size: 108.86842pt x 139.55388pt.
+File: images/L2S_compare/CV_5.png Graphic file (type png)
+ <use images/L2S_compare/CV_5.png>
+Package pdftex.def Info: images/L2S_compare/CV_5.png used on input line 186.
+(pdftex.def)             Requested size: 108.86842pt x 139.55388pt.
+
+<images/L2S_compare/L2S_5.png, id=1579, 194.97844pt x 249.93375pt>
+File: images/L2S_compare/L2S_5.png Graphic file (type png)
+
+<use images/L2S_compare/L2S_5.png>
+Package pdftex.def Info: images/L2S_compare/L2S_5.png used on input line 187.
+(pdftex.def)             Requested size: 108.86842pt x 139.55388pt.
+ [67] [68 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare/orig_
+2.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compa
+re/GAC_2.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2
+S_compare/CV_2.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/ima
+ges/L2S_compare/L2S_2.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/m
+ain/images/L2S_compare/L2S_1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/T
+hesis/main/images/L2S_compare/L2S_4.png (PNG copy)> <C:/Users/Suvadip/Dropbox/D
+rafts/Thesis/main/images/L2S_compare/L2S_5.png (PNG copy)>]
+<images/L2S_compare_region/19_orig.png, id=1595, 140.525pt x 101.37875pt>
+File: images/L2S_compare_region/19_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/19_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/19_orig.png used on input li
+ne 206.
+(pdftex.def)             Requested size: 86.18663pt x 62.17662pt.
+
+<images/L2S_compare_region/19_CV.png, id=1596, 140.525pt x 101.37875pt>
+File: images/L2S_compare_region/19_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/19_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/19_CV.png used on input line
+ 207.
+(pdftex.def)             Requested size: 86.18663pt x 62.17662pt.
+
+<images/L2S_compare_region/19_Lankton.png, id=1597, 140.525pt x 101.37875pt>
+File: images/L2S_compare_region/19_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/19_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/19_Lankton.png used on input
+ line 208.
+(pdftex.def)             Requested size: 86.18663pt x 62.17662pt.
+
+<images/L2S_compare_region/19_Li.png, id=1598, 140.525pt x 101.37875pt>
+File: images/L2S_compare_region/19_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/19_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/19_Li.png used on input line
+ 209.
+(pdftex.def)             Requested size: 86.18663pt x 62.17662pt.
+
+<images/L2S_compare_region/19_ours.png, id=1599, 140.525pt x 101.37875pt>
+File: images/L2S_compare_region/19_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/19_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/19_ours.png used on input li
+ne 210.
+(pdftex.def)             Requested size: 86.18663pt x 62.17662pt.
+
+<images/L2S_compare_region/22_trng_orig.png, id=1600, 93.34875pt x 79.29625pt>
+File: images/L2S_compare_region/22_trng_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/22_trng_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/22_trng_orig.png used on inp
+ut line 212.
+(pdftex.def)             Requested size: 86.18663pt x 73.21597pt.
+
+<images/L2S_compare_region/22_trng_CV.png, id=1601, 93.34875pt x 79.29625pt>
+File: images/L2S_compare_region/22_trng_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/22_trng_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/22_trng_CV.png used on input
+ line 213.
+(pdftex.def)             Requested size: 86.18663pt x 73.21597pt.
+
+<images/L2S_compare_region/22_trng_Lankton.png, id=1602, 93.34875pt x 79.29625p
+t>
+File: images/L2S_compare_region/22_trng_Lankton.png Graphic file (type png)
+ <use images/L2S_compare_region/22_trng_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/22_trng_Lankton.png used on 
+input line 214.
+(pdftex.def)             Requested size: 86.18663pt x 73.21597pt.
+
+<images/L2S_compare_region/22_trng_Li.png, id=1603, 93.34875pt x 79.29625pt>
+File: images/L2S_compare_region/22_trng_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/22_trng_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/22_trng_Li.png used on input
+ line 215.
+(pdftex.def)             Requested size: 86.18663pt x 73.21597pt.
+
+<images/L2S_compare_region/22_trng_ours.png, id=1604, 93.34875pt x 79.29625pt>
+File: images/L2S_compare_region/22_trng_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/22_trng_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/22_trng_ours.png used on inp
+ut line 216.
+(pdftex.def)             Requested size: 86.18663pt x 73.21597pt.
+
+<images/L2S_compare_region/dendrites2_orig.png, id=1605, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/dendrites2_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/dendrites2_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/dendrites2_orig.png used on 
+input line 218.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/dendrites2_CV.png, id=1606, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/dendrites2_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/dendrites2_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/dendrites2_CV.png used on in
+put line 219.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/dendrites2_Lankton.png, id=1607, 128.48pt x 128.48pt
+>
+File: images/L2S_compare_region/dendrites2_Lankton.png Graphic file (type png)
+ <use images/L2S_compare_region/dendrites2_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/dendrites2_Lankton.png used 
+on input line 220.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/dendrites2_Li.png, id=1608, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/dendrites2_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/dendrites2_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/dendrites2_Li.png used on in
+put line 221.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/dendrites2_ours.png, id=1609, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/dendrites2_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/dendrites2_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/dendrites2_ours.png used on 
+input line 222.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/n13_orig.png, id=1610, 202.7575pt x 159.59625pt>
+File: images/L2S_compare_region/n13_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/n13_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/n13_orig.png used on input l
+ine 224.
+(pdftex.def)             Requested size: 86.18663pt x 67.84088pt.
+
+<images/L2S_compare_region/n13_CV.png, id=1611, 202.7575pt x 159.59625pt>
+File: images/L2S_compare_region/n13_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/n13_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/n13_CV.png used on input lin
+e 225.
+(pdftex.def)             Requested size: 86.18663pt x 67.84088pt.
+
+<images/L2S_compare_region/n13_Lankton.png, id=1612, 202.7575pt x 159.59625pt>
+File: images/L2S_compare_region/n13_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/n13_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/n13_Lankton.png used on inpu
+t line 226.
+(pdftex.def)             Requested size: 86.18663pt x 67.84088pt.
+
+<images/L2S_compare_region/n13_Li.png, id=1613, 202.7575pt x 159.59625pt>
+File: images/L2S_compare_region/n13_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/n13_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/n13_Li.png used on input lin
+e 227.
+(pdftex.def)             Requested size: 86.18663pt x 67.84088pt.
+
+<images/L2S_compare_region/n13_ours.png, id=1614, 202.7575pt x 159.59625pt>
+File: images/L2S_compare_region/n13_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/n13_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/n13_ours.png used on input l
+ine 228.
+(pdftex.def)             Requested size: 86.18663pt x 67.84088pt.
+
+<images/L2S_compare_region/neuron_clear_orig.png, id=1615, 175.65625pt x 185.69
+376pt>
+File: images/L2S_compare_region/neuron_clear_orig.png Graphic file (type png)
+ <use images/L2S_compare_region/neuron_clear_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/neuron_clear_orig.png used o
+n input line 230.
+(pdftex.def)             Requested size: 86.18663pt x 91.1154pt.
+
+<images/L2S_compare_region/neuron_clear_CV.png, id=1616, 175.65625pt x 185.6937
+6pt>
+File: images/L2S_compare_region/neuron_clear_CV.png Graphic file (type png)
+ <use images/L2S_compare_region/neuron_clear_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/neuron_clear_CV.png used on 
+input line 231.
+(pdftex.def)             Requested size: 86.18663pt x 91.1154pt.
+
+<images/L2S_compare_region/neuron_clear_Lankton.png, id=1617, 175.65625pt x 185
+.69376pt>
+File: images/L2S_compare_region/neuron_clear_Lankton.png Graphic file (type png
+)
+ <use images/L2S_compare_region/neuron_clear_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/neuron_clear_Lankton.png use
+d on input line 232.
+(pdftex.def)             Requested size: 86.18663pt x 91.1154pt.
+
+<images/L2S_compare_region/neuron_clear_Li.png, id=1618, 175.65625pt x 185.6937
+6pt>
+File: images/L2S_compare_region/neuron_clear_Li.png Graphic file (type png)
+ <use images/L2S_compare_region/neuron_clear_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/neuron_clear_Li.png used on 
+input line 233.
+(pdftex.def)             Requested size: 86.18663pt x 91.1154pt.
+
+<images/L2S_compare_region/neuron_clear_ours.png, id=1619, 175.65625pt x 185.69
+376pt>
+File: images/L2S_compare_region/neuron_clear_ours.png Graphic file (type png)
+ <use images/L2S_compare_region/neuron_clear_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/neuron_clear_ours.png used o
+n input line 234.
+(pdftex.def)             Requested size: 86.18663pt x 91.1154pt.
+
+<images/L2S_compare_region/spine2_orig.png, id=1620, 157.58875pt x 156.585pt>
+File: images/L2S_compare_region/spine2_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/spine2_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/spine2_orig.png used on inpu
+t line 236.
+(pdftex.def)             Requested size: 86.18663pt x 85.63698pt.
+
+<images/L2S_compare_region/spine2_CV.png, id=1621, 157.58875pt x 156.585pt>
+File: images/L2S_compare_region/spine2_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/spine2_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/spine2_CV.png used on input 
+line 237.
+(pdftex.def)             Requested size: 86.18663pt x 85.63698pt.
+
+<images/L2S_compare_region/spine2_Lankton.png, id=1622, 157.58875pt x 156.585pt
+>
+File: images/L2S_compare_region/spine2_Lankton.png Graphic file (type png)
+ <use images/L2S_compare_region/spine2_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/spine2_Lankton.png used on i
+nput line 238.
+(pdftex.def)             Requested size: 86.18663pt x 85.63698pt.
+
+<images/L2S_compare_region/spine2_Li.png, id=1623, 157.58875pt x 156.585pt>
+File: images/L2S_compare_region/spine2_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/spine2_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/spine2_Li.png used on input 
+line 239.
+(pdftex.def)             Requested size: 86.18663pt x 85.63698pt.
+
+<images/L2S_compare_region/spine2_ours.png, id=1624, 157.58875pt x 156.585pt>
+File: images/L2S_compare_region/spine2_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/spine2_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/spine2_ours.png used on inpu
+t line 240.
+(pdftex.def)             Requested size: 86.18663pt x 85.63698pt.
+
+<images/L2S_compare_region/Vessel_CTA1_orig.png, id=1625, 111.41624pt x 110.412
+5pt>
+File: images/L2S_compare_region/Vessel_CTA1_orig.png Graphic file (type png)
+ <use images/L2S_compare_region/Vessel_CTA1_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/Vessel_CTA1_orig.png used on
+ input line 242.
+(pdftex.def)             Requested size: 86.18663pt x 85.41042pt.
+
+<images/L2S_compare_region/Vessel_CTA1_CV.png, id=1626, 111.41624pt x 110.4125p
+t>
+File: images/L2S_compare_region/Vessel_CTA1_CV.png Graphic file (type png)
+ <use images/L2S_compare_region/Vessel_CTA1_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/Vessel_CTA1_CV.png used on i
+nput line 243.
+(pdftex.def)             Requested size: 86.18663pt x 85.41042pt.
+
+<images/L2S_compare_region/Vessel_CTA1_Langton.png, id=1627, 111.41624pt x 110.
+4125pt>
+File: images/L2S_compare_region/Vessel_CTA1_Langton.png Graphic file (type png)
+
+ <use images/L2S_compare_region/Vessel_CTA1_Langton.png>
+Package pdftex.def Info: images/L2S_compare_region/Vessel_CTA1_Langton.png used
+ on input line 244.
+(pdftex.def)             Requested size: 86.18663pt x 85.41042pt.
+
+<images/L2S_compare_region/Vessel_CTA1_Li.png, id=1628, 111.41624pt x 110.4125p
+t>
+File: images/L2S_compare_region/Vessel_CTA1_Li.png Graphic file (type png)
+ <use images/L2S_compare_region/Vessel_CTA1_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/Vessel_CTA1_Li.png used on i
+nput line 245.
+(pdftex.def)             Requested size: 86.18663pt x 85.41042pt.
+
+<images/L2S_compare_region/Vessel_CTA1_ours.png, id=1629, 111.41624pt x 110.412
+5pt>
+File: images/L2S_compare_region/Vessel_CTA1_ours.png Graphic file (type png)
+ <use images/L2S_compare_region/Vessel_CTA1_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/Vessel_CTA1_ours.png used on
+ input line 246.
+(pdftex.def)             Requested size: 86.18663pt x 85.41042pt.
+
+<images/L2S_compare_region/vessel1_orig.png, id=1630, 131.49126pt x 102.3825pt>
+File: images/L2S_compare_region/vessel1_orig.png Graphic file (type png)
+<use images/L2S_compare_region/vessel1_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/vessel1_orig.png used on inp
+ut line 248.
+(pdftex.def)             Requested size: 86.18663pt x 67.11023pt.
+
+<images/L2S_compare_region/vessel1_CV.png, id=1631, 131.49126pt x 102.3825pt>
+File: images/L2S_compare_region/vessel1_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/vessel1_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/vessel1_CV.png used on input
+ line 249.
+(pdftex.def)             Requested size: 86.18663pt x 67.11023pt.
+
+<images/L2S_compare_region/vessel1_Lankton.png, id=1632, 131.49126pt x 102.3825
+pt>
+File: images/L2S_compare_region/vessel1_Lankton.png Graphic file (type png)
+ <use images/L2S_compare_region/vessel1_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/vessel1_Lankton.png used on 
+input line 250.
+(pdftex.def)             Requested size: 86.18663pt x 67.11023pt.
+
+<images/L2S_compare_region/vessel1_Li.png, id=1633, 131.49126pt x 102.3825pt>
+File: images/L2S_compare_region/vessel1_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/vessel1_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/vessel1_Li.png used on input
+ line 251.
+(pdftex.def)             Requested size: 86.18663pt x 67.11023pt.
+
+<images/L2S_compare_region/vessel1_ours.png, id=1634, 131.49126pt x 102.3825pt>
+File: images/L2S_compare_region/vessel1_ours.png Graphic file (type png)
+<use images/L2S_compare_region/vessel1_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/vessel1_ours.png used on inp
+ut line 252.
+(pdftex.def)             Requested size: 86.18663pt x 67.11023pt.
+
+
+LaTeX Warning: Float too large for page by 5.02069pt on input line 258.
+
+[69] [70 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region
+/19_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2
+S_compare_region/19_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/
+main/images/L2S_compare_region/19_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dro
+pbox/Drafts/Thesis/main/images/L2S_compare_region/19_Li.png (PNG copy)> <C:/Use
+rs/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/19_ours.png (PN
+G copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region
+/22_trng_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/imag
+es/L2S_compare_region/22_trng_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Draf
+ts/Thesis/main/images/L2S_compare_region/22_trng_Lankton.png (PNG copy)> <C:/Us
+ers/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/22_trng_Li.png
+ (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_re
+gion/22_trng_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/
+images/L2S_compare_region/dendrites2_orig.png (PNG copy)> <C:/Users/Suvadip/Dro
+pbox/Drafts/Thesis/main/images/L2S_compare_region/dendrites2_CV.png (PNG copy)>
+ <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/dendrit
+es2_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/L2S_compare_region/dendrites2_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/L2S_compare_region/dendrites2_ours.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/n13_orig.png 
+(PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_reg
+ion/n13_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+L2S_compare_region/n13_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts
+/Thesis/main/images/L2S_compare_region/n13_Li.png (PNG copy)> <C:/Users/Suvadip
+/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/n13_ours.png (PNG copy)> 
+<C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/neuron_c
+lear_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L
+2S_compare_region/neuron_clear_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/L2S_compare_region/neuron_clear_Lankton.png (PNG copy)> 
+<C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/neuron_c
+lear_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S
+_compare_region/neuron_clear_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/L2S_compare_region/spine2_orig.png (PNG copy)> <C:/Users
+/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/spine2_CV.png (PN
+G copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region
+/spine2_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/im
+ages/L2S_compare_region/spine2_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/L2S_compare_region/spine2_ours.png (PNG copy)> <C:/Users
+/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Vessel_CTA1_orig.
+png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare
+_region/Vessel_CTA1_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/
+main/images/L2S_compare_region/Vessel_CTA1_Langton.png (PNG copy)> <C:/Users/Su
+vadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Vessel_CTA1_Li.png (
+PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_regi
+on/Vessel_CTA1_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/mai
+n/images/L2S_compare_region/vessel1_orig.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/L2S_compare_region/vessel1_CV.png (PNG copy)> <C:
+/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/vessel1_Lan
+kton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_co
+mpare_region/vessel1_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis
+/main/images/L2S_compare_region/vessel1_ours.png (PNG copy)>]
+<images/L2S_compare_region/Degrade_orig.png, id=1647, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/Degrade_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/Degrade_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/Degrade_orig.png used on inp
+ut line 265.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/Degrade_CV.png, id=1648, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/Degrade_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/Degrade_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/Degrade_CV.png used on input
+ line 266.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/Degrade_Lankton.png, id=1649, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/Degrade_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/Degrade_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/Degrade_Lankton.png used on 
+input line 267.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/Degrade_Li.png, id=1650, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/Degrade_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/Degrade_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/Degrade_Li.png used on input
+ line 268.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/Degrade_ours.png, id=1651, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/Degrade_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/Degrade_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/Degrade_ours.png used on inp
+ut line 269.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/SIM2_orig.png, id=1652, 135.50626pt x 140.525pt>
+File: images/L2S_compare_region/SIM2_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/SIM2_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/SIM2_orig.png used on input 
+line 271.
+(pdftex.def)             Requested size: 86.18663pt x 89.38246pt.
+
+<images/L2S_compare_region/SIM2_CV.png, id=1653, 135.50626pt x 140.525pt>
+File: images/L2S_compare_region/SIM2_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/SIM2_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/SIM2_CV.png used on input li
+ne 272.
+(pdftex.def)             Requested size: 86.18663pt x 89.38246pt.
+
+<images/L2S_compare_region/SIM2_Lankton.png, id=1654, 135.50626pt x 140.525pt>
+File: images/L2S_compare_region/SIM2_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/SIM2_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/SIM2_Lankton.png used on inp
+ut line 273.
+(pdftex.def)             Requested size: 86.18663pt x 89.38246pt.
+
+<images/L2S_compare_region/SIM2_Li.png, id=1655, 135.50626pt x 140.525pt>
+File: images/L2S_compare_region/SIM2_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/SIM2_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/SIM2_Li.png used on input li
+ne 274.
+(pdftex.def)             Requested size: 86.18663pt x 89.38246pt.
+
+<images/L2S_compare_region/SIM2_ours.png, id=1656, 135.50626pt x 140.525pt>
+File: images/L2S_compare_region/SIM2_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/SIM2_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/SIM2_ours.png used on input 
+line 275.
+(pdftex.def)             Requested size: 86.18663pt x 89.38246pt.
+
+<images/L2S_compare_region/mushroom_orig.png, id=1657, 128.48pt x 192.72pt>
+File: images/L2S_compare_region/mushroom_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/mushroom_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/mushroom_orig.png used on in
+put line 277.
+(pdftex.def)             Requested size: 86.18663pt x 129.2805pt.
+
+<images/L2S_compare_region/mushroom_CV.png, id=1658, 128.48pt x 192.72pt>
+File: images/L2S_compare_region/mushroom_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/mushroom_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/mushroom_CV.png used on inpu
+t line 278.
+(pdftex.def)             Requested size: 86.18663pt x 129.2805pt.
+
+<images/L2S_compare_region/mushroom_Lankton.png, id=1659, 128.48pt x 192.72pt>
+File: images/L2S_compare_region/mushroom_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/mushroom_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/mushroom_Lankton.png used on
+ input line 279.
+(pdftex.def)             Requested size: 86.18663pt x 129.2805pt.
+
+<images/L2S_compare_region/mushroom_Li.png, id=1660, 128.48pt x 192.72pt>
+File: images/L2S_compare_region/mushroom_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/mushroom_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/mushroom_Li.png used on inpu
+t line 280.
+(pdftex.def)             Requested size: 86.18663pt x 129.2805pt.
+
+<images/L2S_compare_region/mushroom_ours.png, id=1661, 128.48pt x 192.72pt>
+File: images/L2S_compare_region/mushroom_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/mushroom_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/mushroom_ours.png used on in
+put line 281.
+(pdftex.def)             Requested size: 86.18663pt x 129.2805pt.
+
+<images/L2S_compare_region/Airplane_orig.png, id=1662, 160.6pt x 128.48pt>
+File: images/L2S_compare_region/Airplane_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/Airplane_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/Airplane_orig.png used on in
+put line 283.
+(pdftex.def)             Requested size: 86.18663pt x 68.95078pt.
+
+<images/L2S_compare_region/Airplane_CV.png, id=1663, 160.6pt x 128.48pt>
+File: images/L2S_compare_region/Airplane_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/Airplane_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/Airplane_CV.png used on inpu
+t line 284.
+(pdftex.def)             Requested size: 86.18663pt x 68.95078pt.
+
+<images/L2S_compare_region/Airplane_Lankton.png, id=1664, 160.6pt x 128.48pt>
+File: images/L2S_compare_region/Airplane_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/Airplane_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/Airplane_Lankton.png used on
+ input line 285.
+(pdftex.def)             Requested size: 86.18663pt x 68.95078pt.
+
+<images/L2S_compare_region/Airplane_Li.png, id=1665, 160.6pt x 128.48pt>
+File: images/L2S_compare_region/Airplane_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/Airplane_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/Airplane_Li.png used on inpu
+t line 286.
+(pdftex.def)             Requested size: 86.18663pt x 68.95078pt.
+
+<images/L2S_compare_region/Airplane_ours.png, id=1666, 160.6pt x 128.48pt>
+File: images/L2S_compare_region/Airplane_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/Airplane_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/Airplane_ours.png used on in
+put line 287.
+(pdftex.def)             Requested size: 86.18663pt x 68.95078pt.
+
+<images/L2S_compare_region/muscle_orig.png, id=1667, 176.66pt x 148.555pt>
+File: images/L2S_compare_region/muscle_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/muscle_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/muscle_orig.png used on inpu
+t line 289.
+(pdftex.def)             Requested size: 86.18663pt x 72.47523pt.
+
+<images/L2S_compare_region/muscle_CV.png, id=1668, 176.66pt x 148.555pt>
+File: images/L2S_compare_region/muscle_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/muscle_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/muscle_CV.png used on input 
+line 290.
+(pdftex.def)             Requested size: 86.18663pt x 72.47523pt.
+
+<images/L2S_compare_region/muscle_Lankton.png, id=1669, 176.66pt x 148.555pt>
+File: images/L2S_compare_region/muscle_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/muscle_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/muscle_Lankton.png used on i
+nput line 291.
+(pdftex.def)             Requested size: 86.18663pt x 72.47523pt.
+
+<images/L2S_compare_region/muscle_Li.png, id=1670, 176.66pt x 148.555pt>
+File: images/L2S_compare_region/muscle_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/muscle_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/muscle_Li.png used on input 
+line 292.
+(pdftex.def)             Requested size: 86.18663pt x 72.47523pt.
+
+<images/L2S_compare_region/muscle_ours.png, id=1671, 176.66pt x 148.555pt>
+File: images/L2S_compare_region/muscle_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/muscle_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/muscle_ours.png used on inpu
+t line 293.
+(pdftex.def)             Requested size: 86.18663pt x 72.47523pt.
+
+<images/L2S_compare_region/US3_orig.png, id=1672, 141.52875pt x 111.41624pt>
+File: images/L2S_compare_region/US3_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/US3_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/US3_orig.png used on input l
+ine 295.
+(pdftex.def)             Requested size: 86.18663pt x 67.8499pt.
+
+<images/L2S_compare_region/US3_CV.png, id=1673, 141.52875pt x 111.41624pt>
+File: images/L2S_compare_region/US3_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/US3_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/US3_CV.png used on input lin
+e 296.
+(pdftex.def)             Requested size: 86.18663pt x 67.8499pt.
+
+<images/L2S_compare_region/US3_Lankton.png, id=1674, 141.52875pt x 111.41624pt>
+File: images/L2S_compare_region/US3_Lankton.png Graphic file (type png)
+<use images/L2S_compare_region/US3_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/US3_Lankton.png used on inpu
+t line 297.
+(pdftex.def)             Requested size: 86.18663pt x 67.8499pt.
+
+<images/L2S_compare_region/US3_Li.png, id=1675, 141.52875pt x 111.41624pt>
+File: images/L2S_compare_region/US3_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/US3_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/US3_Li.png used on input lin
+e 298.
+(pdftex.def)             Requested size: 86.18663pt x 67.8499pt.
+
+<images/L2S_compare_region/US3_ours.png, id=1676, 141.52875pt x 111.41624pt>
+File: images/L2S_compare_region/US3_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/US3_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/US3_ours.png used on input l
+ine 299.
+(pdftex.def)             Requested size: 86.18663pt x 67.8499pt.
+
+<images/L2S_compare_region/US7_orig.png, id=1677, 149.55875pt x 108.405pt>
+File: images/L2S_compare_region/US7_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/US7_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/US7_orig.png used on input l
+ine 301.
+(pdftex.def)             Requested size: 86.18663pt x 62.47133pt.
+
+<images/L2S_compare_region/US7_CV.png, id=1678, 149.55875pt x 108.405pt>
+File: images/L2S_compare_region/US7_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/US7_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/US7_CV.png used on input lin
+e 302.
+(pdftex.def)             Requested size: 86.18663pt x 62.47133pt.
+
+<images/L2S_compare_region/US7_Lankton.png, id=1679, 149.55875pt x 108.405pt>
+File: images/L2S_compare_region/US7_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/US7_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/US7_Lankton.png used on inpu
+t line 303.
+(pdftex.def)             Requested size: 86.18663pt x 62.47133pt.
+
+<images/L2S_compare_region/US7_Li.png, id=1680, 149.55875pt x 108.405pt>
+File: images/L2S_compare_region/US7_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/US7_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/US7_Li.png used on input lin
+e 304.
+(pdftex.def)             Requested size: 86.18663pt x 62.47133pt.
+
+<images/L2S_compare_region/US7_ours.png, id=1681, 149.55875pt x 108.405pt>
+File: images/L2S_compare_region/US7_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/US7_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/US7_ours.png used on input l
+ine 305.
+(pdftex.def)             Requested size: 86.18663pt x 62.47133pt.
+
+<images/L2S_compare_region/yeast_orig.png, id=1682, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/yeast_orig.png Graphic file (type png)
+
+<use images/L2S_compare_region/yeast_orig.png>
+Package pdftex.def Info: images/L2S_compare_region/yeast_orig.png used on input
+ line 307.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/yeast_CV.png, id=1683, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/yeast_CV.png Graphic file (type png)
+
+<use images/L2S_compare_region/yeast_CV.png>
+Package pdftex.def Info: images/L2S_compare_region/yeast_CV.png used on input l
+ine 308.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/yeast_Lankton.png, id=1684, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/yeast_Lankton.png Graphic file (type png)
+
+<use images/L2S_compare_region/yeast_Lankton.png>
+Package pdftex.def Info: images/L2S_compare_region/yeast_Lankton.png used on in
+put line 309.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/yeast_Li.png, id=1685, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/yeast_Li.png Graphic file (type png)
+
+<use images/L2S_compare_region/yeast_Li.png>
+Package pdftex.def Info: images/L2S_compare_region/yeast_Li.png used on input l
+ine 310.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+<images/L2S_compare_region/yeast_ours.png, id=1686, 128.48pt x 128.48pt>
+File: images/L2S_compare_region/yeast_ours.png Graphic file (type png)
+
+<use images/L2S_compare_region/yeast_ours.png>
+Package pdftex.def Info: images/L2S_compare_region/yeast_ours.png used on input
+ line 311.
+(pdftex.def)             Requested size: 86.18663pt x 86.187pt.
+
+
+LaTeX Warning: Float too large for page by 49.11139pt on input line 316.
+
+[71 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Degr
+ade_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2
+S_compare_region/Degrade_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Th
+esis/main/images/L2S_compare_region/Degrade_Lankton.png (PNG copy)> <C:/Users/S
+uvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Degrade_Li.png (PNG
+ copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/
+Degrade_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/image
+s/L2S_compare_region/SIM2_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts
+/Thesis/main/images/L2S_compare_region/SIM2_CV.png (PNG copy)> <C:/Users/Suvadi
+p/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/SIM2_Lankton.png (PNG co
+py)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/SIM
+2_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_co
+mpare_region/SIM2_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/
+main/images/L2S_compare_region/mushroom_orig.png (PNG copy)> <C:/Users/Suvadip/
+Dropbox/Drafts/Thesis/main/images/L2S_compare_region/mushroom_CV.png (PNG copy)
+> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/mushro
+om_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+L2S_compare_region/mushroom_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts
+/Thesis/main/images/L2S_compare_region/mushroom_ours.png (PNG copy)> <C:/Users/
+Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Airplane_orig.png 
+(PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_reg
+ion/Airplane_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/im
+ages/L2S_compare_region/Airplane_Lankton.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/L2S_compare_region/Airplane_Li.png (PNG copy)> <C
+:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/Airplane_o
+urs.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_com
+pare_region/muscle_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis
+/main/images/L2S_compare_region/muscle_CV.png (PNG copy)> <C:/Users/Suvadip/Dro
+pbox/Drafts/Thesis/main/images/L2S_compare_region/muscle_Lankton.png (PNG copy)
+> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/muscle
+_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_com
+pare_region/muscle_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis
+/main/images/L2S_compare_region/US3_orig.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/L2S_compare_region/US3_CV.png (PNG copy)> <C:/Use
+rs/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/US3_Lankton.png
+ (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_re
+gion/US3_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/L2S_compare_region/US3_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/T
+hesis/main/images/L2S_compare_region/US7_orig.png (PNG copy)> <C:/Users/Suvadip
+/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/US7_CV.png (PNG copy)> <C
+:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/US7_Lankto
+n.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compa
+re_region/US7_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/L2S_compare_region/US7_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dra
+fts/Thesis/main/images/L2S_compare_region/yeast_orig.png (PNG copy)> <C:/Users/
+Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/yeast_CV.png (PNG 
+copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_compare_region/y
+east_Lankton.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/image
+s/L2S_compare_region/yeast_Li.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/
+Thesis/main/images/L2S_compare_region/yeast_ours.png (PNG copy)>]
+<images/L2S_Dice.png, id=1697, 839.5365pt x 410.13225pt>
+File: images/L2S_Dice.png Graphic file (type png)
+
+<use images/L2S_Dice.png>
+Package pdftex.def Info: images/L2S_Dice.png used on input line 331.
+(pdftex.def)             Requested size: 453.60808pt x 221.59328pt.
+
+<images/L2S_time.png, id=1701, 997.326pt x 489.62926pt>
+File: images/L2S_time.png Graphic file (type png)
+
+<use images/L2S_time.png>
+Package pdftex.def Info: images/L2S_time.png used on input line 340.
+(pdftex.def)             Requested size: 362.88783pt x 178.15659pt.
+ [72
+
+
+] [73 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_Dice.png> <C:/Use
+rs/Suvadip/Dropbox/Drafts/Thesis/main/images/L2S_time.png>] [74]) [75]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/TuFF_ch.tex
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Neuron Segmentation with Tubularity Flow Field
+------------------------------------------------------------------------------
+<./images/TuFF/discontinuities.png, id=1738, 512.1534pt x 212.4738pt>
+File: ./images/TuFF/discontinuities.png Graphic file (type png)
+
+<use ./images/TuFF/discontinuities.png>
+Package pdftex.def Info: ./images/TuFF/discontinuities.png used on input line 1
+4.
+(pdftex.def)             Requested size: 317.52426pt x 131.73563pt.
+ [76
+
+
+
+] [77 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/discontinuities.
+png>]
+<./images/TuFF/n12_speckle.png, id=1749, 150.5625pt x 171.64125pt>
+File: ./images/TuFF/n12_speckle.png Graphic file (type png)
+
+<use ./images/TuFF/n12_speckle.png>
+Package pdftex.def Info: ./images/TuFF/n12_speckle.png used on input line 31.
+(pdftex.def)             Requested size: 95.26073pt x 108.60072pt.
+
+<./images/TuFF/n12_Otsu_2.png, id=1750, 150.5625pt x 171.64125pt>
+File: ./images/TuFF/n12_Otsu_2.png Graphic file (type png)
+
+<use ./images/TuFF/n12_Otsu_2.png>
+Package pdftex.def Info: ./images/TuFF/n12_Otsu_2.png used on input line 34.
+(pdftex.def)             Requested size: 95.26073pt x 108.60072pt.
+
+<./images/TuFF/n12_ChanVese.png, id=1751, 150.5625pt x 171.64125pt>
+File: ./images/TuFF/n12_ChanVese.png Graphic file (type png)
+
+<use ./images/TuFF/n12_ChanVese.png>
+Package pdftex.def Info: ./images/TuFF/n12_ChanVese.png used on input line 37.
+(pdftex.def)             Requested size: 95.26073pt x 108.60072pt.
+
+<./images/TuFF/MFVF_2.png, id=1752, 150.5625pt x 171.64125pt>
+File: ./images/TuFF/MFVF_2.png Graphic file (type png)
+
+<use ./images/TuFF/MFVF_2.png>
+Package pdftex.def Info: ./images/TuFF/MFVF_2.png used on input line 40.
+(pdftex.def)             Requested size: 95.26073pt x 108.60072pt.
+ [78 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/n12_speckle.png (
+PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/n12_Otsu_2.
+png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/n12_Ch
+anVese.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF
+/MFVF_2.png (PNG copy)>] [79]
+<./images/TuFF/tangential_graphic.png, id=1779, 643.203pt x 255.8358pt>
+File: ./images/TuFF/tangential_graphic.png Graphic file (type png)
+
+<use ./images/TuFF/tangential_graphic.png>
+Package pdftex.def Info: ./images/TuFF/tangential_graphic.png used on input lin
+e 75.
+(pdftex.def)             Requested size: 204.12224pt x 81.18987pt.
+
+<./images/TuFF/normal_graphic.png, id=1780, 683.1924pt x 213.9192pt>
+File: ./images/TuFF/normal_graphic.png Graphic file (type png)
+
+<use ./images/TuFF/normal_graphic.png>
+Package pdftex.def Info: ./images/TuFF/normal_graphic.png used on input line 76
+.
+(pdftex.def)             Requested size: 204.12224pt x 63.91185pt.
+ [80] [81 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/tangential_g
+raphic.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/normal_gra
+phic.png>] [82] [83] [84]
+<./images/TuFF/attr_force/all.png, id=1829, 498.36188pt x 330.48468pt>
+File: ./images/TuFF/attr_force/all.png Graphic file (type png)
+
+<use ./images/TuFF/attr_force/all.png>
+Package pdftex.def Info: ./images/TuFF/attr_force/all.png used on input line 16
+2.
+(pdftex.def)             Requested size: 140.61739pt x 93.24611pt.
+
+<./images/TuFF/attr_force/CH_master.png, id=1830, 249.93375pt x 165.61874pt>
+File: ./images/TuFF/attr_force/CH_master.png Graphic file (type png)
+
+<use ./images/TuFF/attr_force/CH_master.png>
+Package pdftex.def Info: ./images/TuFF/attr_force/CH_master.png used on input l
+ine 165.
+(pdftex.def)             Requested size: 140.61739pt x 93.18304pt.
+
+<./images/TuFF/attr_force/slaves.png, id=1831, 249.93375pt x 165.61874pt>
+File: ./images/TuFF/attr_force/slaves.png Graphic file (type png)
+
+<use ./images/TuFF/attr_force/slaves.png>
+Package pdftex.def Info: ./images/TuFF/attr_force/slaves.png used on input line
+ 168.
+(pdftex.def)             Requested size: 140.61739pt x 93.18304pt.
+
+<./images/TuFF/attr_force/force_field.png, id=1832, 540.0978pt x 183.084pt>
+File: ./images/TuFF/attr_force/force_field.png Graphic file (type png)
+
+<use ./images/TuFF/attr_force/force_field.png>
+Package pdftex.def Info: ./images/TuFF/attr_force/force_field.png used on input
+ line 173.
+(pdftex.def)             Requested size: 317.52426pt x 107.63309pt.
+ [85] [86 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/attr_force/a
+ll.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/att
+r_force/CH_master.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/
+images/TuFF/attr_force/slaves.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/
+Thesis/main/images/TuFF/attr_force/force_field.png>] [87] [88]
+<./images/TuFF/attr_force/discontinuities.png, id=1882, 393.6306pt x 253.9086pt
+>
+File: ./images/TuFF/attr_force/discontinuities.png Graphic file (type png)
+ <use ./images/TuFF/attr_force/discontinuities.png>
+Package pdftex.def Info: ./images/TuFF/attr_force/discontinuities.png used on i
+nput line 232.
+(pdftex.def)             Requested size: 272.1676pt x 175.5613pt.
+ [89]
+<./images/TuFF/TypeB_demo/TypeA/1.png, id=1892, 105.39375pt x 112.42pt>
+File: ./images/TuFF/TypeB_demo/TypeA/1.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/1.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/1.png used on input lin
+e 247.
+(pdftex.def)             Requested size: 63.50485pt x 67.73898pt.
+
+<./images/TuFF/TypeB_demo/TypeA/2.png, id=1893, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/2.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/2.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/2.png used on input lin
+e 248.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeA/3.png, id=1894, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/3.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/3.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/3.png used on input lin
+e 249.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeA/4.png, id=1895, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/4.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/4.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/4.png used on input lin
+e 250.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeA/5.png, id=1896, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/5.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/5.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/5.png used on input lin
+e 251.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeA/6.png, id=1897, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/6.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeA/6.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/6.png used on input lin
+e 252.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeA/converged.png, id=1898, 158.84344pt x 168.63pt>
+File: ./images/TuFF/TypeB_demo/TypeA/converged.png Graphic file (type png)
+<use ./images/TuFF/TypeB_demo/TypeA/converged.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeA/converged.png used on i
+nput line 253.
+(pdftex.def)             Requested size: 63.50485pt x 67.41734pt.
+
+<./images/TuFF/TypeB_demo/TypeB/1.png, id=1899, 199.74625pt x 228.855pt>
+File: ./images/TuFF/TypeB_demo/TypeB/1.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/1.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/1.png used on input lin
+e 255.
+(pdftex.def)             Requested size: 63.50485pt x 72.76016pt.
+
+<./images/TuFF/TypeB_demo/TypeB/2.png, id=1900, 124.60345pt x 142.04793pt>
+File: ./images/TuFF/TypeB_demo/TypeB/2.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/2.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/2.png used on input lin
+e 256.
+(pdftex.def)             Requested size: 63.50485pt x 72.3958pt.
+
+<./images/TuFF/TypeB_demo/TypeB/2_5.png, id=1901, 247.96086pt x 284.09586pt>
+File: ./images/TuFF/TypeB_demo/TypeB/2_5.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/2_5.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/2_5.png used on input l
+ine 257.
+(pdftex.def)             Requested size: 63.50485pt x 72.75777pt.
+
+<./images/TuFF/TypeB_demo/TypeB/3.png, id=1902, 247.96086pt x 284.09586pt>
+File: ./images/TuFF/TypeB_demo/TypeB/3.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/3.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/3.png used on input lin
+e 258.
+(pdftex.def)             Requested size: 63.50485pt x 72.75777pt.
+
+<./images/TuFF/TypeB_demo/TypeB/4.png, id=1903, 247.96086pt x 284.09586pt>
+File: ./images/TuFF/TypeB_demo/TypeB/4.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/4.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/4.png used on input lin
+e 259.
+(pdftex.def)             Requested size: 63.50485pt x 72.75777pt.
+
+<./images/TuFF/TypeB_demo/TypeB/5.png, id=1904, 247.96086pt x 284.09586pt>
+File: ./images/TuFF/TypeB_demo/TypeB/5.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/TypeB/5.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/5.png used on input lin
+e 260.
+(pdftex.def)             Requested size: 63.50485pt x 72.75777pt.
+
+<./images/TuFF/TypeB_demo/TypeB/converged.png, id=1905, 123.98044pt x 142.04793
+pt>
+File: ./images/TuFF/TypeB_demo/TypeB/converged.png Graphic file (type png)
+ <use ./images/TuFF/TypeB_demo/TypeB/converged.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/TypeB/converged.png used on i
+nput line 261.
+(pdftex.def)             Requested size: 63.50485pt x 72.75993pt.
+ [90 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/attr_force/discon
+tinuities.png>] [91 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/Ty
+peB_demo/TypeA/1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/TuFF/TypeB_demo/TypeA/2.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main
+/images/TuFF/TypeB_demo/TypeA/3.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Draft
+s/Thesis/main/images/TuFF/TypeB_demo/TypeA/4.png (PNG copy)> <C:/Users/Suvadip/
+Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/TypeA/5.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/TypeA/6.png (PNG
+ copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/Typ
+eA/converged.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/Type
+B_demo/TypeB/1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/ima
+ges/TuFF/TypeB_demo/TypeB/2.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/TuFF/TypeB_demo/TypeB/2_5.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Draft
+s/Thesis/main/images/TuFF/TypeB_demo/TypeB/3.png (PNG copy)> <C:/Users/Suvadip/
+Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/TypeB/4.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/TypeB/5.png> <C:
+/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/TypeB/converge
+d.png>] [92]
+<./images/TuFF/parameter.png, id=1935, 1081.03876pt x 684.30656pt>
+File: ./images/TuFF/parameter.png Graphic file (type png)
+
+<use ./images/TuFF/parameter.png>
+Package pdftex.def Info: ./images/TuFF/parameter.png used on input line 290.
+(pdftex.def)             Requested size: 362.88783pt x 229.70616pt.
+ [93] [94 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/parameter.pn
+g>]
+<./images/TuFF/2D_results/left.png, id=1958, 396.7322pt x 392.21532pt>
+File: ./images/TuFF/2D_results/left.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results/left.png>
+Package pdftex.def Info: ./images/TuFF/2D_results/left.png used on input line 3
+13.
+(pdftex.def)             Requested size: 222.27045pt x 219.74081pt.
+
+<./images/TuFF/2D_results/left_seg.png, id=1959, 396.7322pt x 392.21532pt>
+File: ./images/TuFF/2D_results/left_seg.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results/left_seg.png>
+Package pdftex.def Info: ./images/TuFF/2D_results/left_seg.png used on input li
+ne 314.
+(pdftex.def)             Requested size: 222.27045pt x 219.74081pt.
+
+<./images/TuFF/2D_results/ascoli_2_mip.png, id=1960, 581.8981pt x 292.8181pt>
+File: ./images/TuFF/2D_results/ascoli_2_mip.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results/ascoli_2_mip.png>
+Package pdftex.def Info: ./images/TuFF/2D_results/ascoli_2_mip.png used on inpu
+t line 318.
+(pdftex.def)             Requested size: 408.24449pt x 205.4404pt.
+
+<./images/TuFF/2D_results/Ascoli_initial_res_y.png, id=1961, 581.8981pt x 292.8
+181pt>
+File: ./images/TuFF/2D_results/Ascoli_initial_res_y.png Graphic file (type png)
+
+ <use ./images/TuFF/2D_results/Ascoli_initial_res_y.png>
+Package pdftex.def Info: ./images/TuFF/2D_results/Ascoli_initial_res_y.png used
+ on input line 320.
+(pdftex.def)             Requested size: 408.24449pt x 205.4404pt.
+
+
+LaTeX Warning: Float too large for page by 37.1986pt on input line 325.
+
+[95] [96 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/2D_results/le
+ft.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/2D_
+results/left_seg.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/TuFF/2D_results/ascoli_2_mip.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dr
+afts/Thesis/main/images/TuFF/2D_results/Ascoli_initial_res_y.png (PNG copy)>]
+<./images/TuFF/TypeB_demo/neuron9_cropped.png, id=1970, 120.45pt x 114.4275pt>
+File: ./images/TuFF/TypeB_demo/neuron9_cropped.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/neuron9_cropped.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/neuron9_cropped.png used on i
+nput line 332.
+(pdftex.def)             Requested size: 145.1579pt x 137.91293pt.
+
+<./images/TuFF/TypeB_demo/demo2_skel.png, id=1971, 199.36552pt x 189.39725pt>
+File: ./images/TuFF/TypeB_demo/demo2_skel.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB_demo/demo2_skel.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/demo2_skel.png used on input 
+line 333.
+(pdftex.def)             Requested size: 145.1579pt x 137.90337pt.
+
+<./images/TuFF/TypeB_demo/demo2_postSeg.png, id=1972, 199.36552pt x 189.39725pt
+>
+File: ./images/TuFF/TypeB_demo/demo2_postSeg.png Graphic file (type png)
+ <use ./images/TuFF/TypeB_demo/demo2_postSeg.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/demo2_postSeg.png used on inp
+ut line 334.
+(pdftex.def)             Requested size: 145.1579pt x 137.90337pt.
+
+<./images/TuFF/TypeB_demo/demo2_segmented.png, id=1973, 199.36552pt x 189.39725
+pt>
+File: ./images/TuFF/TypeB_demo/demo2_segmented.png Graphic file (type png)
+ <use ./images/TuFF/TypeB_demo/demo2_segmented.png>
+Package pdftex.def Info: ./images/TuFF/TypeB_demo/demo2_segmented.png used on i
+nput line 340.
+(pdftex.def)             Requested size: 147.42123pt x 140.0535pt.
+
+<./images/TuFF/2D_results_2/b1.png, id=1974, 152.7306pt x 142.6128pt>
+File: ./images/TuFF/2D_results_2/b1.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/b1.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/b1.png used on input line 3
+41.
+(pdftex.def)             Requested size: 149.69148pt x 139.7835pt.
+
+<./images/TuFF/2D_results_2/a2.png, id=1978, 174.4116pt x 136.3494pt>
+File: ./images/TuFF/2D_results_2/a2.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/a2.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/a2.png used on input line 3
+52.
+(pdftex.def)             Requested size: 140.61739pt x 109.93266pt.
+
+<./images/TuFF/2D_results_2/b2.png, id=1979, 176.8206pt x 136.8312pt>
+File: ./images/TuFF/2D_results_2/b2.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/b2.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/b2.png used on input line 3
+53.
+(pdftex.def)             Requested size: 140.61739pt x 108.81995pt.
+
+<./images/TuFF/2D_results_2/c2.png, id=1980, 174.4116pt x 136.8312pt>
+File: ./images/TuFF/2D_results_2/c2.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/c2.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/c2.png used on input line 3
+54.
+(pdftex.def)             Requested size: 140.61739pt x 110.32112pt.
+
+<./images/TuFF/2D_results_2/a3.png, id=1981, 151.2852pt x 128.6406pt>
+File: ./images/TuFF/2D_results_2/a3.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/a3.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/a3.png used on input line 3
+55.
+(pdftex.def)             Requested size: 140.61739pt x 119.57169pt.
+
+<./images/TuFF/2D_results_2/b3.png, id=1982, 150.8034pt x 128.6406pt>
+File: ./images/TuFF/2D_results_2/b3.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/b3.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/b3.png used on input line 3
+56.
+(pdftex.def)             Requested size: 140.61739pt x 119.95642pt.
+
+<./images/TuFF/2D_results_2/c3.png, id=1983, 150.3216pt x 128.6406pt>
+File: ./images/TuFF/2D_results_2/c3.png Graphic file (type png)
+
+<use ./images/TuFF/2D_results_2/c3.png>
+Package pdftex.def Info: ./images/TuFF/2D_results_2/c3.png used on input line 3
+57.
+(pdftex.def)             Requested size: 140.61739pt x 120.34114pt.
+
+<./images/TuFF/orig.png, id=1986, 526.21594pt x 527.72156pt>
+File: ./images/TuFF/orig.png Graphic file (type png)
+
+<use ./images/TuFF/orig.png>
+Package pdftex.def Info: ./images/TuFF/orig.png used on input line 368.
+(pdftex.def)             Requested size: 226.80403pt x 227.45535pt.
+
+<./images/TuFF/TypeB.png, id=1987, 822.07124pt x 822.82407pt>
+File: ./images/TuFF/TypeB.png Graphic file (type png)
+
+<use ./images/TuFF/TypeB.png>
+Package pdftex.def Info: ./images/TuFF/TypeB.png used on input line 373.
+(pdftex.def)             Requested size: 226.80403pt x 227.0118pt.
+
+<./images/TuFF/TypeBTuFF.png, id=1988, 525.46312pt x 526.21594pt>
+File: ./images/TuFF/TypeBTuFF.png Graphic file (type png)
+
+<use ./images/TuFF/TypeBTuFF.png>
+Package pdftex.def Info: ./images/TuFF/TypeBTuFF.png used on input line 374.
+(pdftex.def)             Requested size: 226.80403pt x 227.1276pt.
+
+Overfull \hbox (5.69084pt too wide) in paragraph at lines 372--377
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[97
+
+ <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/neuron9_cr
+opped.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_demo/
+demo2_skel.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/TypeB_
+demo/demo2_postSeg.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuF
+F/TypeB_demo/demo2_segmented.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/T
+hesis/main/images/TuFF/2D_results_2/b1.png>] [98 <C:/Users/Suvadip/Dropbox/Draf
+ts/Thesis/main/images/TuFF/2D_results_2/a2.png> <C:/Users/Suvadip/Dropbox/Draft
+s/Thesis/main/images/TuFF/2D_results_2/b2.png> <C:/Users/Suvadip/Dropbox/Drafts
+/Thesis/main/images/TuFF/2D_results_2/c2.png> <C:/Users/Suvadip/Dropbox/Drafts/
+Thesis/main/images/TuFF/2D_results_2/a3.png> <C:/Users/Suvadip/Dropbox/Drafts/T
+hesis/main/images/TuFF/2D_results_2/b3.png> <C:/Users/Suvadip/Dropbox/Drafts/Th
+esis/main/images/TuFF/2D_results_2/c3.png>] [99 <C:/Users/Suvadip/Dropbox/Draft
+s/Thesis/main/images/TuFF/orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/mai
+n/images/TuFF/TypeB.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/Tu
+FF/TypeBTuFF.png>]
+<./images/TuFF/qual3D/orig1_res.png, id=2023, 525.46312pt x 524.71031pt>
+File: ./images/TuFF/qual3D/orig1_res.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig1_res.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig1_res.png used on input line 
+392.
+(pdftex.def)             Requested size: 149.69148pt x 149.47192pt.
+
+<./images/TuFF/qual3D/orig2_res.png, id=2024, 524.71031pt x 523.9575pt>
+File: ./images/TuFF/qual3D/orig2_res.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig2_res.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig2_res.png used on input line 
+393.
+(pdftex.def)             Requested size: 149.69148pt x 149.47334pt.
+
+<./images/TuFF/qual3D/orig4_res.png, id=2025, 527.72156pt x 524.71031pt>
+File: ./images/TuFF/qual3D/orig4_res.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig4_res.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig4_res.png used on input line 
+394.
+(pdftex.def)             Requested size: 149.69148pt x 148.8314pt.
+
+<./images/TuFF/qual3D/orig1_swc.png, id=2026, 523.20468pt x 524.71031pt>
+File: ./images/TuFF/qual3D/orig1_swc.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig1_swc.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig1_swc.png used on input line 
+395.
+(pdftex.def)             Requested size: 149.69148pt x 150.12045pt.
+
+<./images/TuFF/qual3D/orig2_swc.png, id=2027, 526.21594pt x 526.21594pt>
+File: ./images/TuFF/qual3D/orig2_swc.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig2_swc.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig2_swc.png used on input line 
+396.
+(pdftex.def)             Requested size: 149.69148pt x 149.69206pt.
+
+<./images/TuFF/qual3D/orig4_swc.png, id=2028, 528.47438pt x 526.21594pt>
+File: ./images/TuFF/qual3D/orig4_swc.png Graphic file (type png)
+
+<use ./images/TuFF/qual3D/orig4_swc.png>
+Package pdftex.def Info: ./images/TuFF/qual3D/orig4_swc.png used on input line 
+399.
+(pdftex.def)             Requested size: 149.69148pt x 149.04971pt.
+
+Overfull \hbox (1.15723pt too wide) in paragraph at lines 391--401
+ [][] 
+ []
+
+[100 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig1_res.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig2_res.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig4_res.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig1_swc.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig2_swc.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/qual3D/orig4_swc.
+png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 408.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 408.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 411.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 411.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 414.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 414.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 414.
+
+[101]
+<./images/3D_results/in44_body_orig.png, id=2049, 526.21594pt x 524.71031pt>
+File: ./images/3D_results/in44_body_orig.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_orig.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_orig.png used on input l
+ine 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.37006pt.
+
+<./images/3D_results/in44_body_ground.png, id=2050, 526.21594pt x 526.21594pt>
+File: ./images/3D_results/in44_body_ground.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_ground.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_ground.png used on input
+ line 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results/in44_body_peng.png, id=2051, 525.46312pt x 524.71031pt>
+File: ./images/3D_results/in44_body_peng.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_peng.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_peng.png used on input l
+ine 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.47415pt.
+
+<./images/3D_results/in44_body_NS.png, id=2052, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/in44_body_NS.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_NS.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_NS.png used on input lin
+e 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/in44_body_T2T.png, id=2053, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/in44_body_T2T.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_T2T.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_T2T.png used on input li
+ne 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/in44_body_MFVF.png, id=2054, 525.46312pt x 529.22719pt>
+File: ./images/3D_results/in44_body_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results/in44_body_MFVF.png>
+Package pdftex.def Info: ./images/3D_results/in44_body_MFVF.png used on input l
+ine 465.
+(pdftex.def)             Requested size: 72.57895pt x 73.09802pt.
+
+<./images/3D_results/M4_1_orig.png, id=2055, 528.47438pt x 526.21594pt>
+File: ./images/3D_results/M4_1_orig.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_orig.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_orig.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.26457pt.
+
+<./images/3D_results/M4_1_ground.png, id=2056, 526.96875pt x 527.72156pt>
+File: ./images/3D_results/M4_1_ground.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_ground.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_ground.png used on input line
+ 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.68071pt.
+
+<./images/3D_results/M4_1_peng.png, id=2057, 526.21594pt x 526.21594pt>
+File: ./images/3D_results/M4_1_peng.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_peng.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_peng.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results/M4_1_NS.png, id=2058, 525.46312pt x 526.21594pt>
+File: ./images/3D_results/M4_1_NS.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_NS.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_NS.png used on input line 465
+.
+(pdftex.def)             Requested size: 72.57895pt x 72.68211pt.
+
+<./images/3D_results/M4_1_T2T.png, id=2059, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/M4_1_T2T.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_T2T.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_T2T.png used on input line 46
+5.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/M4_1_MFVF.png, id=2060, 526.96875pt x 526.21594pt>
+File: ./images/3D_results/M4_1_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results/M4_1_MFVF.png>
+Package pdftex.def Info: ./images/3D_results/M4_1_MFVF.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.47334pt.
+
+<./images/3D_results/M4_5_orig.png, id=2061, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/M4_5_orig.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_orig.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_orig.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/M4_5_ground.png, id=2062, 526.21594pt x 526.21594pt>
+File: ./images/3D_results/M4_5_ground.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_ground.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_ground.png used on input line
+ 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results/M4_5_peng.png, id=2063, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/M4_5_peng.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_peng.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_peng.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/M4_5_NS.png, id=2064, 524.71031pt x 526.96875pt>
+File: ./images/3D_results/M4_5_NS.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_NS.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_NS.png used on input line 465
+.
+(pdftex.def)             Requested size: 72.57895pt x 72.89061pt.
+
+<./images/3D_results/M4_5_T2T.png, id=2065, 526.21594pt x 526.21594pt>
+File: ./images/3D_results/M4_5_T2T.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_T2T.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_T2T.png used on input line 46
+5.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results/M4_5_MFVF.png, id=2066, 526.21594pt x 527.72156pt>
+File: ./images/3D_results/M4_5_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results/M4_5_MFVF.png>
+Package pdftex.def Info: ./images/3D_results/M4_5_MFVF.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.78539pt.
+
+<./images/3D_results/M4_9_orig.png, id=2067, 526.96875pt x 526.96875pt>
+File: ./images/3D_results/M4_9_orig.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_orig.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_orig.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.57703pt.
+
+<./images/3D_results/M4_9_ground.png, id=2068, 526.21594pt x 526.96875pt>
+File: ./images/3D_results/M4_9_ground.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_ground.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_ground.png used on input line
+ 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.68155pt.
+
+<./images/3D_results/M4_9_peng.png, id=2069, 526.96875pt x 525.46312pt>
+File: ./images/3D_results/M4_9_peng.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_peng.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_peng.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.36966pt.
+
+<./images/3D_results/M4_9_NS.png, id=2070, 525.46312pt x 526.21594pt>
+File: ./images/3D_results/M4_9_NS.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_NS.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_NS.png used on input line 465
+.
+(pdftex.def)             Requested size: 72.57895pt x 72.68211pt.
+
+<./images/3D_results/M4_9_T2T.png, id=2071, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/M4_9_T2T.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_T2T.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_T2T.png used on input line 46
+5.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/M4_9_MFVF.png, id=2072, 527.72156pt x 524.71031pt>
+File: ./images/3D_results/M4_9_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results/M4_9_MFVF.png>
+Package pdftex.def Info: ./images/3D_results/M4_9_MFVF.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.1619pt.
+
+<./images/3D_results/M4_6_orig.png, id=2073, 526.21594pt x 526.96875pt>
+File: ./images/3D_results/M4_6_orig.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_orig.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_orig.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.68155pt.
+
+<./images/3D_results/M4_6_ground.png, id=2074, 525.46312pt x 526.21594pt>
+File: ./images/3D_results/M4_6_ground.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_ground.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_ground.png used on input line
+ 465.
+(pdftex.def)             Requested size: 72.57895pt x 72.68211pt.
+
+<./images/3D_results/M4_6_peng.png, id=2075, 526.21594pt x 525.46312pt>
+File: ./images/3D_results/M4_6_peng.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_peng.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_peng.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.47389pt.
+
+<./images/3D_results/M4_6_NS.png, id=2076, 526.21594pt x 527.72156pt>
+File: ./images/3D_results/M4_6_NS.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_NS.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_NS.png used on input line 465
+.
+(pdftex.def)             Requested size: 72.57895pt x 72.78539pt.
+
+<./images/3D_results/M4_6_T2T.png, id=2077, 526.21594pt x 526.96875pt>
+File: ./images/3D_results/M4_6_T2T.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_T2T.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_T2T.png used on input line 46
+5.
+(pdftex.def)             Requested size: 72.57895pt x 72.68155pt.
+
+<./images/3D_results/M4_6_MFVF.png, id=2078, 526.96875pt x 525.46312pt>
+File: ./images/3D_results/M4_6_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results/M4_6_MFVF.png>
+Package pdftex.def Info: ./images/3D_results/M4_6_MFVF.png used on input line 4
+65.
+(pdftex.def)             Requested size: 72.57895pt x 72.36966pt.
+
+Overfull \hbox (12.47174pt too wide) in paragraph at lines 465--466
+ [][] 
+ []
+
+[102] [103 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/in44_
+body_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/i
+n44_body_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_res
+ults/in44_body_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D
+_results/in44_body_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+3D_results/in44_body_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/imag
+es/3D_results/in44_body_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/
+images/3D_results/M4_1_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/3D_results/M4_1_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/
+images/3D_results/M4_1_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/i
+mages/3D_results/M4_1_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/imag
+es/3D_results/M4_1_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/3D_results/M4_1_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+3D_results/M4_5_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3
+D_results/M4_5_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+3D_results/M4_5_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3
+D_results/M4_5_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_r
+esults/M4_5_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_res
+ults/M4_5_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resu
+lts/M4_9_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resul
+ts/M4_9_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resu
+lts/M4_9_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resul
+ts/M4_9_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/
+M4_9_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4
+_9_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_
+6_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_6
+_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_
+6_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_6
+_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_6_T2
+T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results/M4_6_MFVF
+.png>]
+<./images/3D_results_2/OP1_orig.png, id=2128, 526.96875pt x 526.21594pt>
+File: ./images/3D_results_2/OP1_orig.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_orig.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_orig.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.47334pt.
+
+<./images/3D_results_2/OP1_ground.png, id=2129, 524.71031pt x 526.21594pt>
+File: ./images/3D_results_2/OP1_ground.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_ground.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_ground.png used on input lin
+e 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.78648pt.
+
+<./images/3D_results_2/OP1_peng.png, id=2130, 525.46312pt x 526.21594pt>
+File: ./images/3D_results_2/OP1_peng.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_peng.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_peng.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.68211pt.
+
+<./images/3D_results_2/OP1_NS.png, id=2131, 526.96875pt x 527.72156pt>
+File: ./images/3D_results_2/OP1_NS.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_NS.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_NS.png used on input line 52
+6.
+(pdftex.def)             Requested size: 72.57895pt x 72.68071pt.
+
+<./images/3D_results_2/OP1_T2T.png, id=2132, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/OP1_T2T.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_T2T.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_T2T.png used on input line 5
+26.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results_2/OP1_MFVF.png, id=2133, 526.96875pt x 526.21594pt>
+File: ./images/3D_results_2/OP1_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP1_MFVF.png>
+Package pdftex.def Info: ./images/3D_results_2/OP1_MFVF.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.47334pt.
+
+<./images/3D_results_2/M4_7_orig.png, id=2134, 526.21594pt x 527.72156pt>
+File: ./images/3D_results_2/M4_7_orig.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_orig.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_orig.png used on input line
+ 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.78539pt.
+
+<./images/3D_results_2/M4_7_ground.png, id=2135, 526.21594pt x 526.96875pt>
+File: ./images/3D_results_2/M4_7_ground.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_ground.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_ground.png used on input li
+ne 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.68155pt.
+
+<./images/3D_results_2/M4_7_peng.png, id=2136, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/M4_7_peng.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_peng.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_peng.png used on input line
+ 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results_2/M4_7_NS.png, id=2137, 526.96875pt x 526.21594pt>
+File: ./images/3D_results_2/M4_7_NS.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_NS.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_NS.png used on input line 5
+26.
+(pdftex.def)             Requested size: 72.57895pt x 72.47334pt.
+
+<./images/3D_results_2/M4_7_T2T_changed.png, id=2138, 526.1256pt x 526.6074pt>
+File: ./images/3D_results_2/M4_7_T2T_changed.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_T2T_changed.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_T2T_changed.png used on inp
+ut line 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.63976pt.
+
+<./images/3D_results_2/M4_7_MFVF.png, id=2139, 525.46312pt x 526.21594pt>
+File: ./images/3D_results_2/M4_7_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results_2/M4_7_MFVF.png>
+Package pdftex.def Info: ./images/3D_results_2/M4_7_MFVF.png used on input line
+ 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.68211pt.
+
+<./images/3D_results_2/OP7_orig.png, id=2140, 526.96875pt x 528.47438pt>
+File: ./images/3D_results_2/OP7_orig.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_orig.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_orig.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.7844pt.
+
+<./images/3D_results_2/OP7_ground.png, id=2141, 526.96875pt x 525.46312pt>
+File: ./images/3D_results_2/OP7_ground.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_ground.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_ground.png used on input lin
+e 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.36966pt.
+
+<./images/3D_results_2/OP7_peng.png, id=2142, 527.72156pt x 525.46312pt>
+File: ./images/3D_results_2/OP7_peng.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_peng.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_peng.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.26543pt.
+
+<./images/3D_results_2/OP7_NS.png, id=2143, 526.96875pt x 528.47438pt>
+File: ./images/3D_results_2/OP7_NS.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_NS.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_NS.png used on input line 52
+6.
+(pdftex.def)             Requested size: 72.57895pt x 72.7844pt.
+
+<./images/3D_results_2/OP7_T2T.png, id=2144, 527.72156pt x 526.21594pt>
+File: ./images/3D_results_2/OP7_T2T.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_T2T.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_T2T.png used on input line 5
+26.
+(pdftex.def)             Requested size: 72.57895pt x 72.36896pt.
+
+<./images/3D_results_2/OP7_MFVF.png, id=2145, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/OP7_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP7_MFVF.png>
+Package pdftex.def Info: ./images/3D_results_2/OP7_MFVF.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results_2/OP9_orig.png, id=2146, 525.46312pt x 526.96875pt>
+File: ./images/3D_results_2/OP9_orig.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_orig.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_orig.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.78609pt.
+
+<./images/3D_results_2/OP9_ground.png, id=2147, 526.96875pt x 526.96875pt>
+File: ./images/3D_results_2/OP9_ground.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_ground.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_ground.png used on input lin
+e 526.
+(pdftex.def)             Requested size: 72.57895pt x 72.57703pt.
+
+<./images/3D_results_2/OP9_peng.png, id=2148, 526.21594pt x 526.96875pt>
+File: ./images/3D_results_2/OP9_peng.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_peng.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_peng.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.68155pt.
+
+<./images/3D_results_2/OP9_NS.png, id=2149, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/OP9_NS.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_NS.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_NS.png used on input line 52
+6.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results_2/OP9_T2T.png, id=2150, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/OP9_T2T.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_T2T.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_T2T.png used on input line 5
+26.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+<./images/3D_results_2/OP9_MFVF.png, id=2151, 526.21594pt x 526.21594pt>
+File: ./images/3D_results_2/OP9_MFVF.png Graphic file (type png)
+
+<use ./images/3D_results_2/OP9_MFVF.png>
+Package pdftex.def Info: ./images/3D_results_2/OP9_MFVF.png used on input line 
+526.
+(pdftex.def)             Requested size: 72.57895pt x 72.57773pt.
+
+Overfull \hbox (12.47174pt too wide) in paragraph at lines 526--527
+ [][] 
+ []
+
+[104] <./images/TuFF/FP.png, id=2161, 1224.07312pt x 588.69937pt>
+File: ./images/TuFF/FP.png Graphic file (type png)
+
+<use ./images/TuFF/FP.png>
+Package pdftex.def Info: ./images/TuFF/FP.png used on input line 537.
+(pdftex.def)             Requested size: 217.72993pt x 104.71269pt.
+
+<./images/TuFF/FN.png, id=2162, 1224.07312pt x 588.69937pt>
+File: ./images/TuFF/FN.png Graphic file (type png)
+
+<use ./images/TuFF/FN.png>
+Package pdftex.def Info: ./images/TuFF/FN.png used on input line 538.
+(pdftex.def)             Requested size: 217.72993pt x 104.71269pt.
+
+<./images/TuFF/wrong.png, id=2163, 1224.07312pt x 588.69937pt>
+File: ./images/TuFF/wrong.png Graphic file (type png)
+
+<use ./images/TuFF/wrong.png>
+Package pdftex.def Info: ./images/TuFF/wrong.png used on input line 542.
+(pdftex.def)             Requested size: 217.72993pt x 104.71269pt.
+
+<./images/TuFF/MAE.png, id=2164, 1224.07312pt x 588.69937pt>
+File: ./images/TuFF/MAE.png Graphic file (type png)
+
+<use ./images/TuFF/MAE.png>
+Package pdftex.def Info: ./images/TuFF/MAE.png used on input line 543.
+(pdftex.def)             Requested size: 217.72993pt x 104.71269pt.
+ [105 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_orig
+.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_grou
+nd.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_pe
+ng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_NS
+.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_T2T.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/OP1_MFVF.
+png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/M4_7_orig
+.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/M4_7_gro
+und.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/M4_7_
+peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/M4_7
+_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_2/M4_7_
+T2T_changed.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results
+_2/M4_7_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_result
+s_2/OP7_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_result
+s_2/OP7_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resu
+lts_2/OP7_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resu
+lts_2/OP7_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_result
+s_2/OP7_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results
+_2/OP7_MFVF.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results
+_2/OP9_orig.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results
+_2/OP9_ground.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resul
+ts_2/OP9_peng.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_resul
+ts_2/OP9_NS.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results
+_2/OP9_T2T.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/3D_results_
+2/OP9_MFVF.png>] [106 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/
+FP.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/FN.
+png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/wrong.
+png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/TuFF/MAE.pn
+g (PNG copy)>] [107] [108]) [109]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Conclusion.tex
+Chapter 7.
+------------------------------------------------------------------------------
+ 7 Conclusion
+------------------------------------------------------------------------------
+) [110
+
+
+
+]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixDL2S.tex
+Appendix A.
+------------------------------------------------------------------------------
+ A Dictionary Learning Level Set
+------------------------------------------------------------------------------
+<./images/DL2S/compare/vessINVIVO2_orig.png, id=2240, 401.5pt x 240.9pt>
+File: ./images/DL2S/compare/vessINVIVO2_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO2_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO2_orig.png used on inp
+ut line 19.
+(pdftex.def)             Requested size: 136.0838pt x 81.65128pt.
+
+<./images/DL2S/compare/vessINVIVO2_CV.png, id=2241, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/vessINVIVO2_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO2_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO2_CV.png used on input
+ line 20.
+(pdftex.def)             Requested size: 136.0838pt x 81.31456pt.
+
+<./images/DL2S/compare/vessINVIVO2_DL.png, id=2242, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/vessINVIVO2_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO2_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO2_DL.png used on input
+ line 21.
+(pdftex.def)             Requested size: 136.0838pt x 81.31346pt.
+
+<./images/DL2S/compare/imCyl2_orig.png, id=2243, 100.375pt x 60.225pt>
+File: ./images/DL2S/compare/imCyl2_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/imCyl2_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/imCyl2_orig.png used on input li
+ne 23.
+(pdftex.def)             Requested size: 136.0838pt x 81.6623pt.
+
+<./images/DL2S/compare/imCyl2_CV.png, id=2244, 200.75pt x 128.48pt>
+File: ./images/DL2S/compare/imCyl2_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/imCyl2_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/imCyl2_CV.png used on input line
+ 24.
+(pdftex.def)             Requested size: 136.0838pt x 87.09862pt.
+
+<./images/DL2S/compare/imCyl2_DL.png, id=2245, 150.5625pt x 96.36pt>
+File: ./images/DL2S/compare/imCyl2_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/imCyl2_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/imCyl2_DL.png used on input line
+ 25.
+(pdftex.def)             Requested size: 136.0838pt x 87.10104pt.
+
+<./images/DL2S/compare/vessFIRvol15_orig.png, id=2246, 100.375pt x 60.225pt>
+File: ./images/DL2S/compare/vessFIRvol15_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol15_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol15_orig.png used on in
+put line 27.
+(pdftex.def)             Requested size: 136.0838pt x 81.6623pt.
+
+<./images/DL2S/compare/vessFIRvol15_CV.png, id=2247, 200.75pt x 128.48pt>
+File: ./images/DL2S/compare/vessFIRvol15_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol15_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol15_CV.png used on inpu
+t line 28.
+(pdftex.def)             Requested size: 136.0838pt x 87.09862pt.
+
+<./images/DL2S/compare/vessFIRvol15_DL.png, id=2248, 150.5625pt x 96.36pt>
+File: ./images/DL2S/compare/vessFIRvol15_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol15_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol15_DL.png used on inpu
+t line 29.
+(pdftex.def)             Requested size: 136.0838pt x 87.10104pt.
+ [111
+
+
+
+] [112 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/vessINV
+IVO2_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/D
+L2S/compare/vessINVIVO2_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/The
+sis/main/images/DL2S/compare/vessINVIVO2_DL.png (PNG copy)> <C:/Users/Suvadip/D
+ropbox/Drafts/Thesis/main/images/DL2S/compare/imCyl2_orig.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/imCyl2_CV.png (PNG 
+copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/imCyl2_
+DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/com
+pare/vessFIRvol15_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/
+main/images/DL2S/compare/vessFIRvol15_CV.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/DL2S/compare/vessFIRvol15_DL.png (PNG copy)>] [11
+3] [114]
+<./images/DL2S/evolution/cylDPSS_DLevol570.png, id=2289, 240.9pt x 144.54pt>
+File: ./images/DL2S/evolution/cylDPSS_DLevol570.png Graphic file (type png)
+
+<use ./images/DL2S/evolution/cylDPSS_DLevol570.png>
+Package pdftex.def Info: ./images/DL2S/evolution/cylDPSS_DLevol570.png used on 
+input line 85.
+(pdftex.def)             Requested size: 108.86842pt x 65.32028pt.
+
+<./images/DL2S/evolution/cylDPSS_DLevol5710.png, id=2290, 240.9pt x 144.54pt>
+File: ./images/DL2S/evolution/cylDPSS_DLevol5710.png Graphic file (type png)
+
+<use ./images/DL2S/evolution/cylDPSS_DLevol5710.png>
+Package pdftex.def Info: ./images/DL2S/evolution/cylDPSS_DLevol5710.png used on
+ input line 86.
+(pdftex.def)             Requested size: 108.86842pt x 65.32028pt.
+
+<./images/DL2S/evolution/cylDPSS_DLevol5720.png, id=2291, 240.9pt x 144.54pt>
+File: ./images/DL2S/evolution/cylDPSS_DLevol5720.png Graphic file (type png)
+
+<use ./images/DL2S/evolution/cylDPSS_DLevol5720.png>
+Package pdftex.def Info: ./images/DL2S/evolution/cylDPSS_DLevol5720.png used on
+ input line 87.
+(pdftex.def)             Requested size: 108.86842pt x 65.32028pt.
+
+<./images/DL2S/evolution/cylDPSS_DLevol57221.png, id=2292, 240.9pt x 144.54pt>
+File: ./images/DL2S/evolution/cylDPSS_DLevol57221.png Graphic file (type png)
+
+<use ./images/DL2S/evolution/cylDPSS_DLevol57221.png>
+Package pdftex.def Info: ./images/DL2S/evolution/cylDPSS_DLevol57221.png used o
+n input line 88.
+(pdftex.def)             Requested size: 108.86842pt x 65.32028pt.
+
+<./images/DL2S/dataset1_dict.png, id=2297, 363.60844pt x 109.1578pt>
+File: ./images/DL2S/dataset1_dict.png Graphic file (type png)
+
+<use ./images/DL2S/dataset1_dict.png>
+Package pdftex.def Info: ./images/DL2S/dataset1_dict.png used on input line 104
+.
+(pdftex.def)             Requested size: 408.24449pt x 122.56236pt.
+ [115 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/evolution/cylDPS
+S_DLevol570.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images
+/DL2S/evolution/cylDPSS_DLevol5710.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dr
+afts/Thesis/main/images/DL2S/evolution/cylDPSS_DLevol5720.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/evolution/cylDPSS_DLevol572
+21.png (PNG copy)>]
+<./images/DL2S/Initialization/init_ell.png, id=2307, 602.25pt x 361.35pt>
+File: ./images/DL2S/Initialization/init_ell.png Graphic file (type png)
+
+<use ./images/DL2S/Initialization/init_ell.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/init_ell.png used on inpu
+t line 121.
+(pdftex.def)             Requested size: 108.86842pt x 65.3214pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_CV_ell.png, id=2308, 241.90375pt x 1
+44.54pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_CV_ell.png Graphic file (type p
+ng)
+ <use ./images/DL2S/Initialization/vessINVIVO02_CV_ell.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_CV_ell.png u
+sed on input line 122.
+(pdftex.def)             Requested size: 108.86842pt x 65.05121pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_L2S_p2_ell.png, id=2309, 602.25pt x 
+361.35pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_ell.png Graphic file (ty
+pe png)
+ <use ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_ell.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_ell.p
+ng used on input line 123.
+(pdftex.def)             Requested size: 108.86842pt x 65.3214pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_DL_ell.png, id=2310, 181.42781pt x 1
+08.405pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_DL_ell.png Graphic file (type p
+ng)
+ <use ./images/DL2S/Initialization/vessINVIVO02_DL_ell.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_DL_ell.png u
+sed on input line 124.
+(pdftex.def)             Requested size: 108.86842pt x 65.05176pt.
+
+<./images/DL2S/Initialization/init_mb.png, id=2311, 602.25pt x 361.35pt>
+File: ./images/DL2S/Initialization/init_mb.png Graphic file (type png)
+
+<use ./images/DL2S/Initialization/init_mb.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/init_mb.png used on input
+ line 126.
+(pdftex.def)             Requested size: 108.86842pt x 65.3214pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_CV_mb.png, id=2312, 241.90375pt x 14
+4.54pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_CV_mb.png Graphic file (type pn
+g)
+ <use ./images/DL2S/Initialization/vessINVIVO02_CV_mb.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_CV_mb.png us
+ed on input line 127.
+(pdftex.def)             Requested size: 108.86842pt x 65.05121pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_L2S_p2_mb.png, id=2313, 602.25pt x 3
+61.35pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_mb.png Graphic file (typ
+e png)
+ <use ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_mb.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_L2S_p2_mb.pn
+g used on input line 128.
+(pdftex.def)             Requested size: 108.86842pt x 65.3214pt.
+
+<./images/DL2S/Initialization/vessINVIVO02_DL_mb.png, id=2314, 181.42781pt x 10
+8.405pt>
+File: ./images/DL2S/Initialization/vessINVIVO02_DL_mb.png Graphic file (type pn
+g)
+ <use ./images/DL2S/Initialization/vessINVIVO02_DL_mb.png>
+Package pdftex.def Info: ./images/DL2S/Initialization/vessINVIVO02_DL_mb.png us
+ed on input line 129.
+(pdftex.def)             Requested size: 108.86842pt x 65.05176pt.
+ [116 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/dataset1_dict.pn
+g (PNG copy)>] <./images/DL2S/compare/cylNORM57_orig.png, id=2322, 401.5pt x 24
+0.9pt>
+File: ./images/DL2S/compare/cylNORM57_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM57_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM57_orig.png used on input
+ line 143.
+(pdftex.def)             Requested size: 104.32791pt x 62.59575pt.
+
+<./images/DL2S/compare/cylNORM57_CV.png, id=2323, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/cylNORM57_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM57_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM57_CV.png used on input l
+ine 144.
+(pdftex.def)             Requested size: 104.32791pt x 62.33624pt.
+
+<./images/DL2S/compare/cylNORM57_L2S_p2_c.png, id=2324, 602.25pt x 361.35pt>
+File: ./images/DL2S/compare/cylNORM57_L2S_p2_c.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM57_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM57_L2S_p2_c.png used on i
+nput line 145.
+(pdftex.def)             Requested size: 104.32791pt x 62.59209pt.
+
+<./images/DL2S/compare/cylNORM57_DL.png, id=2325, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/cylNORM57_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM57_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM57_DL.png used on input l
+ine 146.
+(pdftex.def)             Requested size: 104.32791pt x 62.33734pt.
+
+<./images/DL2S/compare/cylNORM59_orig.png, id=2326, 401.5pt x 240.9pt>
+File: ./images/DL2S/compare/cylNORM59_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM59_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM59_orig.png used on input
+ line 148.
+(pdftex.def)             Requested size: 104.32791pt x 62.59575pt.
+
+<./images/DL2S/compare/cylNORM59_CV.png, id=2327, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/cylNORM59_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM59_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM59_CV.png used on input l
+ine 149.
+(pdftex.def)             Requested size: 104.32791pt x 62.33624pt.
+
+<./images/DL2S/compare/cylNORM59_L2S_p2_c.png, id=2328, 241.90375pt x 145.54375
+pt>
+File: ./images/DL2S/compare/cylNORM59_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/cylNORM59_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM59_L2S_p2_c.png used on i
+nput line 150.
+(pdftex.def)             Requested size: 104.32791pt x 62.76913pt.
+
+<./images/DL2S/compare/cylNORM59_DL.png, id=2329, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/cylNORM59_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylNORM59_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylNORM59_DL.png used on input l
+ine 151.
+(pdftex.def)             Requested size: 104.32791pt x 62.33734pt.
+
+<./images/DL2S/compare/cylDPSS58_orig.png, id=2330, 401.5pt x 240.9pt>
+File: ./images/DL2S/compare/cylDPSS58_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylDPSS58_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylDPSS58_orig.png used on input
+ line 153.
+(pdftex.def)             Requested size: 104.32791pt x 62.59575pt.
+
+<./images/DL2S/compare/cylDPSS58_CV.png, id=2331, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/cylDPSS58_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylDPSS58_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylDPSS58_CV.png used on input l
+ine 154.
+(pdftex.def)             Requested size: 104.32791pt x 62.33624pt.
+
+<./images/DL2S/compare/cylDPSS58_L2S_p2_c.png, id=2332, 241.90375pt x 145.54375
+pt>
+File: ./images/DL2S/compare/cylDPSS58_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/cylDPSS58_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylDPSS58_L2S_p2_c.png used on i
+nput line 155.
+(pdftex.def)             Requested size: 104.32791pt x 62.76913pt.
+
+<./images/DL2S/compare/cylDPSS58_DL.png, id=2333, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/cylDPSS58_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/cylDPSS58_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/cylDPSS58_DL.png used on input l
+ine 156.
+(pdftex.def)             Requested size: 104.32791pt x 62.33734pt.
+
+<./images/DL2S/compare/vessFIRvol10_orig.png, id=2334, 100.375pt x 60.225pt>
+File: ./images/DL2S/compare/vessFIRvol10_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol10_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol10_orig.png used on in
+put line 158.
+(pdftex.def)             Requested size: 104.32791pt x 62.60126pt.
+
+<./images/DL2S/compare/vessFIRvol10_CV.png, id=2335, 200.75pt x 128.48pt>
+File: ./images/DL2S/compare/vessFIRvol10_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol10_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol10_CV.png used on inpu
+t line 159.
+(pdftex.def)             Requested size: 104.32791pt x 66.77077pt.
+
+<./images/DL2S/compare/vessFIRvol10_L2S_p2_c.png, id=2336, 150.5625pt x 96.36pt
+>
+File: ./images/DL2S/compare/vessFIRvol10_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/vessFIRvol10_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol10_L2S_p2_c.png used o
+n input line 160.
+(pdftex.def)             Requested size: 104.32791pt x 66.77222pt.
+
+<./images/DL2S/compare/vessFIRvol10_DL.png, id=2337, 150.5625pt x 96.36pt>
+File: ./images/DL2S/compare/vessFIRvol10_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol10_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol10_DL.png used on inpu
+t line 161.
+(pdftex.def)             Requested size: 104.32791pt x 66.77222pt.
+
+<./images/DL2S/compare/vessFIRvol18_orig.png, id=2338, 100.375pt x 60.225pt>
+File: ./images/DL2S/compare/vessFIRvol18_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol18_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol18_orig.png used on in
+put line 163.
+(pdftex.def)             Requested size: 104.32791pt x 62.60126pt.
+
+<./images/DL2S/compare/vessFIRvol18_CV.png, id=2339, 200.75pt x 128.48pt>
+File: ./images/DL2S/compare/vessFIRvol18_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol18_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol18_CV.png used on inpu
+t line 164.
+(pdftex.def)             Requested size: 104.32791pt x 66.77077pt.
+
+<./images/DL2S/compare/vessFIRvol18_L2S_p2_c.png, id=2340, 150.5625pt x 96.36pt
+>
+File: ./images/DL2S/compare/vessFIRvol18_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/vessFIRvol18_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol18_L2S_p2_c.png used o
+n input line 165.
+(pdftex.def)             Requested size: 104.32791pt x 66.77222pt.
+
+<./images/DL2S/compare/vessFIRvol18_DL.png, id=2341, 150.5625pt x 96.36pt>
+File: ./images/DL2S/compare/vessFIRvol18_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessFIRvol18_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessFIRvol18_DL.png used on inpu
+t line 166.
+(pdftex.def)             Requested size: 104.32791pt x 66.77222pt.
+
+<./images/DL2S/compare/vessINVIVO15_orig.png, id=2342, 401.5pt x 240.9pt>
+File: ./images/DL2S/compare/vessINVIVO15_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO15_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO15_orig.png used on in
+put line 168.
+(pdftex.def)             Requested size: 104.32791pt x 62.59575pt.
+
+<./images/DL2S/compare/vessINVIVO15_CV.png, id=2343, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/vessINVIVO15_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO15_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO15_CV.png used on inpu
+t line 169.
+(pdftex.def)             Requested size: 104.32791pt x 62.33624pt.
+
+<./images/DL2S/compare/vessINVIVO15_L2S_p2_c.png, id=2344, 241.90375pt x 145.54
+375pt>
+File: ./images/DL2S/compare/vessINVIVO15_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/vessINVIVO15_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO15_L2S_p2_c.png used o
+n input line 170.
+(pdftex.def)             Requested size: 104.32791pt x 62.76913pt.
+
+<./images/DL2S/compare/vessINVIVO15_DL.png, id=2345, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/vessINVIVO15_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO15_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO15_DL.png used on inpu
+t line 171.
+(pdftex.def)             Requested size: 104.32791pt x 62.33734pt.
+
+<./images/DL2S/compare/vessINVIVO17_orig.png, id=2346, 401.5pt x 240.9pt>
+File: ./images/DL2S/compare/vessINVIVO17_orig.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO17_orig.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO17_orig.png used on in
+put line 173.
+(pdftex.def)             Requested size: 104.32791pt x 62.59575pt.
+
+<./images/DL2S/compare/vessINVIVO17_CV.png, id=2347, 241.90375pt x 144.54pt>
+File: ./images/DL2S/compare/vessINVIVO17_CV.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO17_CV.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO17_CV.png used on inpu
+t line 174.
+(pdftex.def)             Requested size: 104.32791pt x 62.33624pt.
+
+<./images/DL2S/compare/vessINVIVO17_L2S_p2_c.png, id=2348, 241.90375pt x 145.54
+375pt>
+File: ./images/DL2S/compare/vessINVIVO17_L2S_p2_c.png Graphic file (type png)
+ <use ./images/DL2S/compare/vessINVIVO17_L2S_p2_c.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO17_L2S_p2_c.png used o
+n input line 175.
+(pdftex.def)             Requested size: 104.32791pt x 62.76913pt.
+
+<./images/DL2S/compare/vessINVIVO17_DL.png, id=2349, 181.42781pt x 108.405pt>
+File: ./images/DL2S/compare/vessINVIVO17_DL.png Graphic file (type png)
+
+<use ./images/DL2S/compare/vessINVIVO17_DL.png>
+Package pdftex.def Info: ./images/DL2S/compare/vessINVIVO17_DL.png used on inpu
+t line 176.
+(pdftex.def)             Requested size: 104.32791pt x 62.33734pt.
+
+<./images/DL2S/legnum_comp.png, id=2353, 1445.4pt x 724.20563pt>
+File: ./images/DL2S/legnum_comp.png Graphic file (type png)
+
+<use ./images/DL2S/legnum_comp.png>
+Package pdftex.def Info: ./images/DL2S/legnum_comp.png used on input line 187.
+(pdftex.def)             Requested size: 217.72993pt x 109.09027pt.
+
+<./images/DL2S/dictnum_comp.png, id=2354, 1445.4pt x 724.20563pt>
+File: ./images/DL2S/dictnum_comp.png Graphic file (type png)
+
+<use ./images/DL2S/dictnum_comp.png>
+Package pdftex.def Info: ./images/DL2S/dictnum_comp.png used on input line 188.
+
+(pdftex.def)             Requested size: 217.72993pt x 109.09027pt.
+ [117 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/Initialization/i
+nit_ell.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2
+S/Initialization/vessINVIVO02_CV_ell.png (PNG copy)> <C:/Users/Suvadip/Dropbox/
+Drafts/Thesis/main/images/DL2S/Initialization/vessINVIVO02_L2S_p2_ell.png (PNG 
+copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/Initialization/
+vessINVIVO02_DL_ell.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/mai
+n/images/DL2S/Initialization/init_mb.png (PNG copy)> <C:/Users/Suvadip/Dropbox/
+Drafts/Thesis/main/images/DL2S/Initialization/vessINVIVO02_CV_mb.png (PNG copy)
+> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/Initialization/vessI
+NVIVO02_L2S_p2_mb.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/
+images/DL2S/Initialization/vessINVIVO02_DL_mb.png (PNG copy)>] [118 <C:/Users/S
+uvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylNORM57_orig.png (PNG c
+opy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylNORM5
+7_CV.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/c
+ompare/cylNORM57_L2S_p2_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thes
+is/main/images/DL2S/compare/cylNORM57_DL.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/DL2S/compare/cylNORM59_orig.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylNORM59_CV.png (P
+NG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylN
+ORM59_L2S_p2_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/ima
+ges/DL2S/compare/cylNORM59_DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/
+Thesis/main/images/DL2S/compare/cylDPSS58_orig.png (PNG copy)> <C:/Users/Suvadi
+p/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylDPSS58_CV.png (PNG copy)> <
+C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/cylDPSS58_L2S_p
+2_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/co
+mpare/cylDPSS58_DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main
+/images/DL2S/compare/vessFIRvol10_orig.png (PNG copy)> <C:/Users/Suvadip/Dropbo
+x/Drafts/Thesis/main/images/DL2S/compare/vessFIRvol10_CV.png (PNG copy)> <C:/Us
+ers/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/vessFIRvol10_L2S_p2_
+c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/comp
+are/vessFIRvol10_DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/mai
+n/images/DL2S/compare/vessFIRvol18_orig.png (PNG copy)> <C:/Users/Suvadip/Dropb
+ox/Drafts/Thesis/main/images/DL2S/compare/vessFIRvol18_CV.png (PNG copy)> <C:/U
+sers/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/vessFIRvol18_L2S_p2
+_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/com
+pare/vessFIRvol18_DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/ma
+in/images/DL2S/compare/vessINVIVO15_orig.png (PNG copy)> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/DL2S/compare/vessINVIVO15_CV.png (PNG copy)> <C:/
+Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/vessINVIVO15_L2S_p
+2_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/co
+mpare/vessINVIVO15_DL.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/m
+ain/images/DL2S/compare/vessINVIVO17_orig.png (PNG copy)> <C:/Users/Suvadip/Dro
+pbox/Drafts/Thesis/main/images/DL2S/compare/vessINVIVO17_CV.png (PNG copy)> <C:
+/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/compare/vessINVIVO17_L2S_
+p2_c.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/c
+ompare/vessINVIVO17_DL.png (PNG copy)>]
+[119 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/legnum_comp.png (
+PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/DL2S/dictnum_com
+p.png (PNG copy)>]) [120]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixLDE.tex
+Appendix B.
+------------------------------------------------------------------------------
+ B Extensions of Tubularity Flow Field
+------------------------------------------------------------------------------
+[121
+
+
+
+] <./images/LDE/n13.png, id=2383, 152.06813pt x 119.69719pt>
+File: ./images/LDE/n13.png Graphic file (type png)
+
+<use ./images/LDE/n13.png>
+Package pdftex.def Info: ./images/LDE/n13.png used on input line 23.
+(pdftex.def)             Requested size: 136.0838pt x 107.11826pt.
+
+<./images/LDE/n13_enh_frangi.png, id=2384, 152.06813pt x 119.69719pt>
+File: ./images/LDE/n13_enh_frangi.png Graphic file (type png)
+
+<use ./images/LDE/n13_enh_frangi.png>
+Package pdftex.def Info: ./images/LDE/n13_enh_frangi.png used on input line 26.
+
+(pdftex.def)             Requested size: 136.0838pt x 107.11826pt.
+
+<./images/LDE/n13_enh_our.png, id=2385, 152.06813pt x 119.69719pt>
+File: ./images/LDE/n13_enh_our.png Graphic file (type png)
+
+<use ./images/LDE/n13_enh_our.png>
+Package pdftex.def Info: ./images/LDE/n13_enh_our.png used on input line 27.
+(pdftex.def)             Requested size: 136.0838pt x 107.11826pt.
+
+<./images/LDE/n13_frangi_cyan_rect.png, id=2386, 152.06813pt x 119.69719pt>
+File: ./images/LDE/n13_frangi_cyan_rect.png Graphic file (type png)
+
+<use ./images/LDE/n13_frangi_cyan_rect.png>
+Package pdftex.def Info: ./images/LDE/n13_frangi_cyan_rect.png used on input li
+ne 29.
+(pdftex.def)             Requested size: 136.0838pt x 107.11826pt.
+
+<./images/LDE/n13_ours.png, id=2387, 152.06813pt x 119.69719pt>
+File: ./images/LDE/n13_ours.png Graphic file (type png)
+
+<use ./images/LDE/n13_ours.png>
+Package pdftex.def Info: ./images/LDE/n13_ours.png used on input line 30.
+(pdftex.def)             Requested size: 136.0838pt x 107.11826pt.
+ [122]
+<./images/LDE/r_d.png, id=2407, 260.47313pt x 260.47313pt>
+File: ./images/LDE/r_d.png Graphic file (type png)
+
+<use ./images/LDE/r_d.png>
+Package pdftex.def Info: ./images/LDE/r_d.png used on input line 51.
+(pdftex.def)             Requested size: 113.40201pt x 113.40028pt.
+
+<./images/LDE/r_d_45.png, id=2408, 261.22594pt x 261.97874pt>
+File: ./images/LDE/r_d_45.png Graphic file (type png)
+
+<use ./images/LDE/r_d_45.png>
+Package pdftex.def Info: ./images/LDE/r_d_45.png used on input line 52.
+(pdftex.def)             Requested size: 113.40201pt x 113.72798pt.
+
+<./images/LDE/r_d_135.png, id=2409, 261.97874pt x 259.7203pt>
+File: ./images/LDE/r_d_135.png Graphic file (type png)
+
+<use ./images/LDE/r_d_135.png>
+Package pdftex.def Info: ./images/LDE/r_d_135.png used on input line 53.
+(pdftex.def)             Requested size: 115.67227pt x 114.67358pt.
+
+<./images/LDE/r_f.png, id=2410, 261.22594pt x 262.73157pt>
+File: ./images/LDE/r_f.png Graphic file (type png)
+
+<use ./images/LDE/r_f.png>
+Package pdftex.def Info: ./images/LDE/r_f.png used on input line 54.
+(pdftex.def)             Requested size: 115.67227pt x 116.33989pt.
+
+<./images/LDE/r_b.png, id=2411, 259.7203pt x 259.7203pt>
+File: ./images/LDE/r_b.png Graphic file (type png)
+
+<use ./images/LDE/r_b.png>
+Package pdftex.def Info: ./images/LDE/r_b.png used on input line 55.
+(pdftex.def)             Requested size: 115.67227pt x 115.67226pt.
+
+<./images/LDE/all.png, id=2412, 260.47313pt x 259.7203pt>
+File: ./images/LDE/all.png Graphic file (type png)
+
+<use ./images/LDE/all.png>
+Package pdftex.def Info: ./images/LDE/all.png used on input line 56.
+(pdftex.def)             Requested size: 115.67227pt x 115.33937pt.
+ [123 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/n13.png (PNG copy
+)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/n13_enh_frangi.png (
+PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/n13_enh_our.
+png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/n13_fra
+ngi_cyan_rect.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/n13_
+ours.png (PNG copy)>] [124 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/
+LDE/r_d.png> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/r_d_45.png
+> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/r_d_135.png> <C:/User
+s/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/r_f.png> <C:/Users/Suvadip/Drop
+box/Drafts/Thesis/main/images/LDE/r_b.png> <C:/Users/Suvadip/Dropbox/Drafts/The
+sis/main/images/LDE/all.png>]
+Overfull \hbox (1.37141pt too wide) in paragraph at lines 77--77
+[]\OT1/cmr/bx/n/14.4 Vessel en-hance-ment with lo-cal di-rec-tional ev-i-dence 
+(LDE) 
+ []
+
+[125] <./images/LDE/sim2.png, id=2449, 132.495pt x 128.73094pt>
+File: ./images/LDE/sim2.png Graphic file (type png)
+
+<use ./images/LDE/sim2.png>
+Package pdftex.def Info: ./images/LDE/sim2.png used on input line 100.
+(pdftex.def)             Requested size: 136.0838pt x 132.227pt.
+
+<./images/LDE/sim2_frangi_resp.png, id=2450, 132.495pt x 128.73094pt>
+File: ./images/LDE/sim2_frangi_resp.png Graphic file (type png)
+
+<use ./images/LDE/sim2_frangi_resp.png>
+Package pdftex.def Info: ./images/LDE/sim2_frangi_resp.png used on input line 1
+01.
+(pdftex.def)             Requested size: 136.0838pt x 132.227pt.
+
+<./images/LDE/sim2_ours.png, id=2451, 132.495pt x 128.73094pt>
+File: ./images/LDE/sim2_ours.png Graphic file (type png)
+
+<use ./images/LDE/sim2_ours.png>
+Package pdftex.def Info: ./images/LDE/sim2_ours.png used on input line 102.
+(pdftex.def)             Requested size: 136.0838pt x 132.227pt.
+ [126 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/sim2.png (PNG cop
+y)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/sim2_frangi_resp.pn
+g> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/sim2_ours.png (PNG c
+opy)>]
+<./images/LDE/Enhancements/n3_1.png, id=2460, 258.21469pt x 213.79875pt>
+File: ./images/LDE/Enhancements/n3_1.png Graphic file (type png)
+
+<use ./images/LDE/Enhancements/n3_1.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/n3_1.png used on input line 
+119.
+(pdftex.def)             Requested size: 127.0097pt x 105.16356pt.
+
+<./images/LDE/Enhancements/n3_1_frangi.png, id=2461, 258.21469pt x 213.79875pt>
+File: ./images/LDE/Enhancements/n3_1_frangi.png Graphic file (type png)
+<use ./images/LDE/Enhancements/n3_1_frangi.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/n3_1_frangi.png used on inpu
+t line 120.
+(pdftex.def)             Requested size: 127.0097pt x 105.16356pt.
+
+<./images/LDE/Enhancements/n3_1_ours.png, id=2462, 258.21469pt x 213.79875pt>
+File: ./images/LDE/Enhancements/n3_1_ours.png Graphic file (type png)
+
+<use ./images/LDE/Enhancements/n3_1_ours.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/n3_1_ours.png used on input 
+line 121.
+(pdftex.def)             Requested size: 127.0097pt x 105.16356pt.
+
+<./images/LDE/Enhancements/trial1.png, id=2463, 155.83218pt x 199.49532pt>
+File: ./images/LDE/Enhancements/trial1.png Graphic file (type png)
+
+<use ./images/LDE/Enhancements/trial1.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/trial1.png used on input lin
+e 123.
+(pdftex.def)             Requested size: 127.0097pt x 162.59789pt.
+
+<./images/LDE/Enhancements/trial1_enh_frangi.png, id=2464, 155.83218pt x 199.49
+532pt>
+File: ./images/LDE/Enhancements/trial1_enh_frangi.png Graphic file (type png)
+ <use ./images/LDE/Enhancements/trial1_enh_frangi.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/trial1_enh_frangi.png used o
+n input line 124.
+(pdftex.def)             Requested size: 127.0097pt x 162.59789pt.
+
+<./images/LDE/Enhancements/trial1_enh_ours.png, id=2465, 155.83218pt x 199.4953
+2pt>
+File: ./images/LDE/Enhancements/trial1_enh_ours.png Graphic file (type png)
+ <use ./images/LDE/Enhancements/trial1_enh_ours.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/trial1_enh_ours.png used on 
+input line 125.
+(pdftex.def)             Requested size: 127.0097pt x 162.59789pt.
+
+<./images/LDE/Enhancements/vessel_crop_1.png, id=2466, 310.15875pt x 200.24812p
+t>
+File: ./images/LDE/Enhancements/vessel_crop_1.png Graphic file (type png)
+ <use ./images/LDE/Enhancements/vessel_crop_1.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/vessel_crop_1.png used on in
+put line 127.
+(pdftex.def)             Requested size: 127.0097pt x 82.00142pt.
+
+<./images/LDE/Enhancements/vessel_crop_1_enh_frangi.png, id=2467, 310.15875pt x
+ 200.24812pt>
+File: ./images/LDE/Enhancements/vessel_crop_1_enh_frangi.png Graphic file (type
+ png)
+ <use ./images/LDE/Enhancements/vessel_crop_1_enh_frangi.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/vessel_crop_1_enh_frangi.png
+ used on input line 128.
+(pdftex.def)             Requested size: 127.0097pt x 82.00142pt.
+
+<./images/LDE/Enhancements/vessel_crop_1_enh_ours.png, id=2468, 310.15875pt x 2
+00.24812pt>
+File: ./images/LDE/Enhancements/vessel_crop_1_enh_ours.png Graphic file (type p
+ng)
+ <use ./images/LDE/Enhancements/vessel_crop_1_enh_ours.png>
+Package pdftex.def Info: ./images/LDE/Enhancements/vessel_crop_1_enh_ours.png u
+sed on input line 129.
+(pdftex.def)             Requested size: 127.0097pt x 82.00142pt.
+ [127 <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/Enhancements/n3_1
+.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/Enhanc
+ements/n3_1_frangi.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main
+/images/LDE/Enhancements/n3_1_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dr
+afts/Thesis/main/images/LDE/Enhancements/trial1.png (PNG copy)> <C:/Users/Suvad
+ip/Dropbox/Drafts/Thesis/main/images/LDE/Enhancements/trial1_enh_frangi.png (PN
+G copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/Enhancements/t
+rial1_enh_ours.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/ima
+ges/LDE/Enhancements/vessel_crop_1.png (PNG copy)> <C:/Users/Suvadip/Dropbox/Dr
+afts/Thesis/main/images/LDE/Enhancements/vessel_crop_1_enh_frangi.png (PNG copy
+)> <C:/Users/Suvadip/Dropbox/Drafts/Thesis/main/images/LDE/Enhancements/vessel_
+crop_1_enh_ours.png (PNG copy)>] [128]) [129]
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixTuFF.tex
+Appendix C.
+------------------------------------------------------------------------------
+ C Derivations of the mathematical results
+------------------------------------------------------------------------------
+
+Overfull \hbox (7.02254pt too wide) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 We use al-ter-nate min-i-miza-tion to com-pute the lo-cally op-
+ti-mum vec-tors $[] = [][]$
+ []
+
+[130
+
+
+
+] [131] [132]) [133]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.bbl [7
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.bbl [134
 
 
-] [8]
-[9])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
- (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
+
+] [135]
+[136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147])
+[148]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+ (C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\suvadip_thesis.aux
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Intro_ch2.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Bg_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/T2T2_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/GAC_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/L2S_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/TuFF_ch.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Chapters/Conclusion.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixDL2S.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixLDE.aux)
+(C:\Users\Suvadip\Dropbox\Drafts\Thesis\main\Appendices/AppendixTuFF.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `suvadip_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 291001A8CE97DB7F71AC28E2DE043567;1634.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
+(rerunfilecheck)             Checksum: 974F0D22F8CC8CB938A372654A354256;27336.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  ) 
 Here is how much of TeX's memory you used:
- 13656 strings out of 493921
- 193718 string characters out of 3147276
- 259943 words of memory out of 3000000
- 16678 multiletter control sequences out of 15000+200000
- 11983 words of font info for 44 fonts, out of 3000000 for 9000
+ 26404 strings out of 493921
+ 485852 string characters out of 3147276
+ 482714 words of memory out of 3000000
+ 28263 multiletter control sequences out of 15000+200000
+ 16956 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 49i,11n,45p,1547b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/s
-ymbols/msbm10.pfb>
-Output written on suvadip_thesis.pdf (17 pages, 129668 bytes).
+ 62i,18n,77p,1630b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on suvadip_thesis.pdf (160 pages, 28119737 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2786 PDF objects out of 2984 (max. 8388607)
+ 557 named destinations out of 1000 (max. 500000)
+ 2722 words of extra memory for PDF output out of 10000 (max. 10000000)
 

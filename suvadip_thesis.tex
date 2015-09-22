@@ -8,47 +8,48 @@
 \hypersetup{urlcolor=black, colorlinks=false, hidelinks} % Colors hyperlinks in blue - change to black if annoying
 
 \usepackage{amsmath,amssymb}
-%\usepackage{stmaryrd}
 \usepackage{enumerate}
+\usepackage{color}
+\usepackage{cite}
+\usepackage{todonotes}
+\usepackage[font = footnotesize]{caption}
+\usepackage{adjustbox}
+\usepackage{subfigure}
+%\usepackage{stmaryrd}
 %\usepackage{array}
 %\usepackage{bbm}
 %\usepackage{eqparbox}
 %\usepackage{frame}
 %\usepackage{float}
 %\usepackage{algorithm}
-%\usepackage{color}
 %\usepackage[tight,footnotesize]{subfigure}
 %\usepackage{url}
 %\usepackage{epsfig}
 %\usepackage{multirow}
-%\usepackage{color}
-\usepackage{subfigure}
-\usepackage{cite}
-%\usepackage{todonotes}
 %\usepackage{balance}
 %\usepackage{enumitem}
 %\usepackage{wrapfig}
 %\usepackage{booktabs}
 %\usepackage[margin=0.5in]{geometry}
-\usepackage[font = footnotesize]{caption}
 %%\usepackage{subcaption}
 %%\usepackage{graphicx}
 %\usepackage{wrapfig}
-\usepackage{adjustbox}
 
 
 \title{\ttitle} % Defines the thesis title - don't touch this
+
+%\includeonly{}
 
 \begin{document}
 
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
 
 % Define the page headers using the FancyHdr package and set up for one-sided printing
-\fancyhead{} % Clears all page headers and footers
-\rhead{\thepage} % Sets the right side header to show the page number
-\lhead{} % Clears the left side page header
+\fancyhead{} 		% Clears all page headers and footers
+\rhead{\thepage} 	% Sets the right side header to show the page number
+\lhead{} 			% Clears the left side page header
 
-\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+\pagestyle{fancy} 	% Finally, use the "fancy" page style to implement the FancyHdr headers
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
 
@@ -104,7 +105,30 @@ by \\[1cm]
 %----------------------------------------------------------------------------------------
 \clearpage
 \begin{abstract}
-This is the abstract page which I will write shortly
+\setlength{\parindent}{5mm} 
+The neuronal content of an organism, the individual morphology of each neuron and the variability of these
+components constitute the atlas of the \textit{neurome}. The description of such an atlas will be critical in determining
+the complex neural system of an organism, eventually providing clues to how animals think and function. As
+the organisms under investigation scale from the worm to the human, the number of neurons range from hundreds
+to trillions. Image analysis is a key ingredient towards the neurome for complex organisms. Specifically, from an
+image processing engineer’s perspective, an essential aspect of this study is development of segmentation
+algorithms to obtain an automated digital reconstruction of the neural morphology. 
+
+\indent The primary objective
+of this thesis is to develop novel image analysis methods for neuromics – the study of neurons. We investigate automated algorithms for segmenting filamentous neuronal structures from noisy and cluttered confocal microscopy images. The end goal is to embed the shape and geometry of the segmented neurons in a mathematically representable graph theoretic tree. Different categories of neurons of the fruit fly \textit{Drosophila} are studied, and segmentation algorithms are proposed for detecting single neuron cells which are genetically tagged with florescence protein. The  neuronal trees, which are automatically identified from 2D or 3D images are represented in a \textit{SWC} format. This provides a digital reconstruction that could be used for future neurological studies such as shape comparison, structural categorization and disease identification.
+
+In this regard, we propose three automated neuron segmentation algorithms. The first method, Tree2Tree-2 is a graph based tracer that uses graph theory in conjunction with image analysis to perform tracing. The primary obstacle in neuron tracing is to identify the correct connections between the neuron sub compartments in presence of noise and clutter. Tree2Tree-2 addresses this issue using a graph based geometry analysis procedure. Tree2Tree-2 improves on its predecessor Tree2Tree by establishing a robust variational formulation for initial segmentation and a shortest path based curve refinement policy to accurately link the neurites. Using this strategy we observe an improvement in tracing performance over Tree2Tree by xx\%.
+
+\indent
+While the above mentioned solution is effective for relatively simpler morphologies, we hypothesize that a more efficient solution can be achieved by introducing a methodology which is adaptive to the  object topology. One approach to solve this problem is by using geometric active contours, which are capable of automatically merging and splitting the deformable model in a natural framework. This motivates our next solution, Legendre Level Sets (L2S), which is designed to perform region based segmentation of 2D images in presence of heterogeneous intensity. L2S is a general purpose segmentation technique, and is applied to neuron segmentation for 2D images. The primary contribution of L2S is to enable robust processing in scenarios where the illumination is inconsistent and contrast is low. We have shown our results on multiple  2D microscopy images and the results suggest significant improvement over the  state of the art with an improved accuracy of yy \%.
+
+\indent
+To extend the framework for 3D neuron segmentation, we introduce the third method Tubularity Flow Field (TuFF). TuFF uses level sets for segmentation, and is guided by the local orientation of the filamentous structures for curve propagation. Where  L2S is a generalized method, TuFF is specifically designed  for applications involving filamentous objects. The advantage of using a geometric deformable model is evident from TuFF's ability to correctly identify local connections which cannot be established by explicit methodologies. The experimental results on a set of 2D and 3D images are evaluated against  three popular semi automated and automated tracers, and we observe an accuracy of zz \% mean absolute error which is an improvement of mm\% over the competing methods.  We further improve TuFF's performance by proposing a novel methodology to enhance low contrast vascular structures and some non biological applications in civil engineering is finally discussed which suggests the broad applicability of the methodology.
+
+   
+
+
+
 \end{abstract}
 
 
@@ -135,27 +159,65 @@ This is the abstract page which I will write shortly
 
 \listofnomenclature{cl} % Include a list of Symbols (a three column table)
 {
-a & scalar notation \\
-\textbf{a} & vector notation \\
-\textbf{A} & matrix notation \\
-$\Omega$ & domain of the image function ($\Omega\subset \mathbb{R}^2/\mathbb{R}^3$) \\
-$\textbf{x}$ & position vector (x,y) or (x,y,z) $\in \Omega$  \\
-$t$ & scalar variable denoting time/pseudo time\\
-$f(\textbf{x})$ & continuous image function,  $f:\Omega \mapsto \mathbb{R}$ \\
-$\phi(\textbf{x},t)$ & level set function, $\phi: \Omega\times \mathbb{R}^+\mapsto \mathbb{R} $ \\
+a & Scalar notation \\
+
+\textbf{a} & Vector notation \\
+
+$\left[\text{A}\right]$ & Matrix notation \\
+
+$\Omega$ & Domain of the image function ($\Omega\subset \mathbb{R}^2/\mathbb{R}^3$) \\
+
+$\textbf{x}$ & Position vector (x,y) or (x,y,z) $\in \Omega$  \\
+
+$\ast$ & Convolution operator \\
+
+$\cdot$ & Vector dot product operator \\
+
+$t$ & Scalar variable denoting time/pseudo time \\
+
+$\sigma$ & Scale parameter \\
+
+$f(\textbf{x})$ & Continuous image function,  $f:\Omega \mapsto \mathbb{R}$ \\
+
+$g_\sigma(\textbf{x})$ & Zero mean isotropic Gaussian kernel, with std. deviation $\sigma$  \\
+
+$\nabla$ & Gradient operator \\
+
+$ \text{div}(\textbf{a})$ & Divergence operator, $\nabla\cdot\textbf{a}$ \\
+
+$\nabla^2$ & Laplacian operator \\
+
+$N_\sigma(\textbf{x})$ & \textit{Vesselness} response at scale $\sigma$ \\
+
+$N(\textbf{x})$ & Scale-space \textit{vesselness} response \\
+
+$\mathcal{H}_\sigma(\textbf{x})$ & Hessian matrix of $f(\textbf{x})\ast g_\sigma(\textbf{x})$\\
+
+$\phi(\textbf{x},t)$ & Level set function, $\phi: \Omega\times \mathbb{R}^+\mapsto \mathbb{R} $ \\
+
 $H(\phi)$ & Heaviside function\\
+
 $\delta(\phi)$ & Dirac delta function\\
-$\textbf{C}(p)$ & parametric curve, $p\in \{0,1 \}$ \\
+
+$\textbf{C}(p)$ & Parametric curve, $p\in \{0,1 \}$ \\
+
 $\textbf{C}_t$ & $\dfrac{\partial \textbf{C} }{\partial t}$ \\
-$\textbf{n}$ & unit outward normal vector to a curve \\
-$\textbf{t}$ & unit tangent vector to a curve \\
+
+$\textbf{n}$ & Unit outward normal vector to a curve \\
+
+$\textbf{t}$ & Unit tangent vector to a curve \\
+
+$\mathcal{P}_k(\textbf{x})$ & Legendre polynomial of degree k \\
+
+$\mathbb{P}(\textbf{x})= \left(\mathcal{P}_0(\textbf{x}),\ldots, \mathcal{P}_{N}(\textbf{x})\right)^T $ & Vector of Legendre polynomials \\
+
 }
 
 %----------------------------------------------------------------------------------------
 %	DEDICATION
 %----------------------------------------------------------------------------------------
 
-\setstretch{2} 
+\setstretch{1.8} 
 
 \pagestyle{empty} % Page style needs to be empty for this page
 
@@ -168,17 +230,27 @@ $\textbf{t}$ & unit tangent vector to a curve \\
 \mainmatter % Begin numeric (1,2,3...) page numbering
 
 \pagestyle{fancy} % Return the page headers back to the "fancy" style
-\setlength{\parindent}{0em}
+\setlength{\parindent}{2em}
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
-\input{zcom}
-\input{Chapters/Chapter1}
-%\input{Chapters/Chapter2} 
-%\input{Chapters/Chapter3}
-%\input{Chapters/Chapter4} 
-%\input{Chapters/Chapter5} 
+%\input{zcom}
+%\input{Chapters/Intro_ch}
+%\input{Chapters/Bg_ch} 
+%\input{Chapters/T2T2_ch}
+%\input{Chapters/GAC_ch}
+%\input{Chapters/L2S_ch} 
+%\input{Chapters/TuFF_ch} 
 %\input{Chapters/Chapter6} 
 %\input{Chapters/Chapter7} 
+
+\input{zcom}
+\include{Chapters/Intro_ch2}
+\include{Chapters/Bg_ch} 
+\include{Chapters/T2T2_ch}
+\include{Chapters/GAC_ch}
+\include{Chapters/L2S_ch} 
+\include{Chapters/TuFF_ch} 
+\include{Chapters/Conclusion} 
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
@@ -191,9 +263,9 @@ $\textbf{t}$ & unit tangent vector to a curve \\
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
 
-%\input{Appendices/AppendixA}
-%\input{Appendices/AppendixB}
-%\input{Appendices/AppendixC}
+\include{Appendices/AppendixDL2S}  % appendix for DL2S
+\include{Appendices/AppendixLDE}   % appendix for LDE+other applications of TuFF
+\include{Appendices/AppendixTuFF}  % appendix for mathematical derivations
 
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 

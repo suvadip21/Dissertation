@@ -1,14 +1,126 @@
-\contentsline {chapter}{Contents}{iii}{dummy.1}
-\contentsline {chapter}{List of Figures}{iv}{dummy.3}
-\contentsline {chapter}{List of Tables}{v}{dummy.5}
-\contentsline {chapter}{Symbols}{vi}{dummy.7}
-\vspace {2em}
+\contentsline {chapter}{Contents}{iv}{dummy.1}
+\contentsline {chapter}{List of Figures}{viii}{dummy.3}
+\contentsline {chapter}{List of Tables}{x}{dummy.5}
+\contentsline {chapter}{Symbols}{xi}{dummy.7}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.10}
-\contentsline {section}{\numberline {1.1}Neuroimage Analysis}{2}{section.11}
-\contentsline {subsection}{\numberline {1.1.1}Image acquisition}{3}{subsection.12}
+\contentsline {section}{\numberline {1.1}Neuroimage analysis}{1}{section.11}
+\contentsline {subsection}{\numberline {1.1.1}Image Acquisition}{2}{subsection.12}
 \contentsline {subsection}{\numberline {1.1.2}Image analysis}{3}{subsection.13}
-\contentsline {subsection}{\numberline {1.1.3}Algorithms for detecting vascularity}{5}{subsection.14}
-\contentsline {section}{\numberline {1.2}Scope of the dissertation}{5}{section.15}
+\contentsline {section}{\numberline {1.2}Problem formulation}{4}{section.14}
+\contentsline {subsection}{\numberline {1.2.1}Single neuron imaging}{5}{subsection.15}
+\contentsline {section}{\numberline {1.3}Contributions of this thesis}{6}{section.17}
+\contentsline {section}{\numberline {1.4}Thesis outline}{8}{section.21}
+\contentsline {section}{\numberline {1.5}Publications resulting from this work}{8}{section.22}
 \vspace {2em}
+\contentsline {chapter}{\numberline {2}Background}{11}{chapter.23}
+\contentsline {section}{\numberline {2.1}Neuron segmentation and tracing}{12}{section.24}
+\contentsline {subsection}{\numberline {2.1.1}Challenges in image processing}{12}{subsection.25}
+\contentsline {subsection}{\numberline {2.1.2}Neuron tracing strategies}{13}{subsection.27}
+\contentsline {subsubsection}{\numberline {2.1.2.1}NeuronJ}{14}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Simple Neurite Tracer}{15}{subsubsection.29}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Vaa3D and associated algorithms}{15}{subsubsection.30}
+\contentsline {subsubsection}{\numberline {2.1.2.4}k-Minimum Spanning Tree}{16}{subsubsection.31}
+\contentsline {subsubsection}{\numberline {2.1.2.5}NeuronStudio}{16}{subsubsection.32}
+\contentsline {subsubsection}{\numberline {2.1.2.6}Open-Curve Snake}{17}{subsubsection.33}
+\contentsline {subsubsection}{\numberline {2.1.2.7}Tree2Tree}{17}{subsubsection.34}
+\contentsline {subsubsection}{\numberline {2.1.2.8}Other methods}{18}{subsubsection.35}
+\contentsline {section}{\numberline {2.2}Discussion}{19}{section.36}
+\contentsline {chapter}{\numberline {3}Graph Based Neuron Tracing}{21}{chapter.37}
+\contentsline {section}{\numberline {3.1}Tree2Tree-2}{21}{section.38}
+\contentsline {subsection}{\numberline {3.1.1}Hessian based vessel enhancement}{21}{subsection.40}
+\contentsline {subsubsection}{\numberline {3.1.1.1}Tubularity field}{22}{subsubsection.42}
+\contentsline {subsection}{\numberline {3.1.2}Initial Segmentation}{24}{subsection.48}
+\contentsline {subsection}{\numberline {3.1.3}Connectivity analysis and component linking}{27}{subsection.54}
+\contentsline {subsection}{\numberline {3.1.4}PathSearch}{28}{subsection.57}
+\contentsline {section}{\numberline {3.2}Multiscale medialness map}{29}{section.65}
+\contentsline {subsection}{\numberline {3.2.1}Vector field convolution medialness}{30}{subsection.66}
+\contentsline {subsection}{\numberline {3.2.2}Multiscale VFC medialness}{31}{subsection.70}
+\contentsline {section}{\numberline {3.3}Computing the neuronal tree}{32}{section.72}
+\contentsline {subsection}{\numberline {3.3.1}Tree pruning}{32}{subsection.73}
+\contentsline {section}{\numberline {3.4}Results}{34}{section.76}
+\contentsline {section}{\numberline {3.5}Discussion}{37}{section.78}
+\contentsline {chapter}{\numberline {4}Geometric Active Contours}{40}{chapter.80}
+\contentsline {section}{\numberline {4.1}Framework for contour propagation}{41}{section.81}
+\contentsline {section}{\numberline {4.2}Motion models for snakes}{42}{section.85}
+\contentsline {subsection}{\numberline {4.2.1}Constant speed evolution}{42}{subsection.86}
+\contentsline {subsection}{\numberline {4.2.2}Curvature based motion}{43}{subsection.88}
+\contentsline {subsection}{\numberline {4.2.3}Malladi-Sethian model}{44}{subsection.91}
+\contentsline {subsection}{\numberline {4.2.4}Geodesic Active Contour (GAC)}{44}{subsection.93}
+\contentsline {section}{\numberline {4.3}Implementation using level sets}{45}{section.96}
+\contentsline {subsection}{\numberline {4.3.1}Geometric active contour}{46}{subsection.97}
+\contentsline {section}{\numberline {4.4}Variational active contours}{48}{section.101}
+\contentsline {subsection}{\numberline {4.4.1}Variational contour regularization}{50}{subsection.103}
+\contentsline {subsection}{\numberline {4.4.2}Chan-Vese's segmentation model}{51}{subsection.107}
+\contentsline {section}{\numberline {4.5}Edge based vs. region based models}{53}{section.112}
+\contentsline {subsection}{\numberline {4.5.1}Synthetic examples}{53}{subsection.113}
+\contentsline {subsection}{\numberline {4.5.2}Real examples}{55}{subsection.116}
+\contentsline {section}{\numberline {4.6}Discussion}{55}{section.117}
+\contentsline {chapter}{\numberline {5}Region based segmentation in presence of inhomogeneity}{58}{chapter.118}
+\contentsline {section}{\numberline {5.1}Application to 2D neuron tracing}{59}{section.119}
+\contentsline {section}{\numberline {5.2}Background and motivation}{59}{section.120}
+\contentsline {section}{\numberline {5.3}2D segmentation using L2S}{62}{section.124}
+\contentsline {subsection}{\numberline {5.3.1}Optimization of the energy functional}{63}{subsection.128}
+\contentsline {subsection}{\numberline {5.3.2}Analysis of L2S}{65}{subsection.135}
+\contentsline {subsection}{\numberline {5.3.3}Parameter selection for L2S}{66}{subsection.136}
+\contentsline {subsection}{\numberline {5.3.4}Comparison with GAC and Chan-Vese}{67}{subsection.137}
+\contentsline {subsection}{\numberline {5.3.5}Comparison with other methods}{69}{subsection.139}
+\contentsline {subsection}{\numberline {5.3.6}Quantitative performance evaluation}{72}{subsection.142}
+\contentsline {subsection}{\numberline {5.3.7}Computational comparison}{73}{subsection.145}
+\contentsline {section}{\numberline {5.4}Discussion}{74}{section.147}
+\contentsline {chapter}{\numberline {6}Neuron Segmentation with Tubularity Flow Field}{76}{chapter.148}
+\contentsline {section}{\numberline {6.1}Introduction}{77}{section.149}
+\contentsline {section}{\numberline {6.2}Tubularity Flow Field for neuron segmentation}{78}{section.151}
+\contentsline {subsection}{\numberline {6.2.1}Tubularity Flow Field (TuFF)}{79}{subsection.157}
+\contentsline {subsection}{\numberline {6.2.2}Variational formulation with TuFF}{79}{subsection.158}
+\contentsline {subsection}{\numberline {6.2.3}TuFF gradient flow equation}{80}{subsection.160}
+\contentsline {subsubsection}{\numberline {6.2.3.1}Effect of the axial component of TuFF}{81}{subsubsection.161}
+\contentsline {subsubsection}{\numberline {6.2.3.2}Effect of the orthogonal component of TuFF}{81}{subsubsection.163}
+\contentsline {subsubsection}{\numberline {6.2.3.3}Effect of the vector field weights}{82}{subsubsection.164}
+\contentsline {subsubsection}{\numberline {6.2.3.4}Isotropic TuFF equation}{82}{subsubsection.170}
+\contentsline {subsection}{\numberline {6.2.4}Minimization of the TuFF functional}{84}{subsection.173}
+\contentsline {section}{\numberline {6.3}Local attraction force field}{85}{section.178}
+\contentsline {subsection}{\numberline {6.3.1}Candidate points for attraction force field}{86}{subsection.185}
+\contentsline {subsection}{\numberline {6.3.2}Attraction force field design}{87}{subsection.187}
+\contentsline {subsection}{\numberline {6.3.3}Attraction force}{88}{subsection.190}
+\contentsline {section}{\numberline {6.4}Handling of discontinuities}{89}{section.193}
+\contentsline {subsection}{\numberline {6.4.1}Type A discontinuities}{90}{subsection.195}
+\contentsline {subsection}{\numberline {6.4.2}Type B discontinuities}{91}{subsection.197}
+\contentsline {section}{\numberline {6.5}Curve evolution equation}{92}{section.198}
+\contentsline {section}{\numberline {6.6}Experimental results}{92}{section.200}
+\contentsline {subsection}{\numberline {6.6.1}Dataset for segmentation}{93}{subsection.201}
+\contentsline {subsection}{\numberline {6.6.2}Parameter selection}{94}{subsection.202}
+\contentsline {subsection}{\numberline {6.6.3}2D segmentation via TuFF: qualitative results}{95}{subsection.204}
+\contentsline {subsection}{\numberline {6.6.4}Efficacious handling of branch connectivity}{97}{subsection.206}
+\contentsline {subsection}{\numberline {6.6.5}3D segmentation via TuFF: qualitative results}{100}{subsection.210}
+\contentsline {subsection}{\numberline {6.6.6}Comparison of segmentation performance}{101}{subsection.212}
+\contentsline {subsubsection}{\numberline {6.6.6.1}Graph Augmented Deformable (GD) model \cite {peng_GAD}}{101}{subsubsection.213}
+\contentsline {subsubsection}{\numberline {6.6.6.2}Neuronstudio \cite {rodriguez_voxelscoop}}{101}{subsubsection.214}
+\contentsline {subsubsection}{\numberline {6.6.6.3}Tree2Tree \cite {basu_T2T_journal}}{102}{subsubsection.215}
+\contentsline {subsection}{\numberline {6.6.7}Qualitative performance analysis}{102}{subsection.218}
+\contentsline {subsubsection}{\numberline {6.6.7.1}Results on Condron data set}{102}{subsubsection.219}
+\contentsline {subsubsection}{\numberline {6.6.7.2}Segmentation results on OP dataset}{104}{subsubsection.220}
+\contentsline {subsection}{\numberline {6.6.8}Quantitative Performance Analysis}{105}{subsection.223}
+\contentsline {section}{\numberline {6.7}Further improvements}{108}{section.227}
+\contentsline {section}{\numberline {6.8}Discussion}{109}{section.228}
+\contentsline {chapter}{\numberline {7}Conclusion}{110}{chapter.229}
+\contentsline {chapter}{\numberline {A}Dictionary Learning Level Set}{111}{appendix.230}
+\contentsline {section}{\numberline {A.1}Dictionary Learning Level Sets (DL2S)}{111}{section.231}
+\contentsline {subsection}{\numberline {A.1.1}Methodology}{112}{subsection.233}
+\contentsline {subsection}{\numberline {A.1.2}Intensity modeling with dictionary learning}{113}{subsection.235}
+\contentsline {subsection}{\numberline {A.1.3}DL2S curve evolution}{114}{subsection.237}
+\contentsline {subsection}{\numberline {A.1.4}Analysis of DL2S}{115}{subsection.242}
+\contentsline {subsection}{\numberline {A.1.5}Experimental Results}{117}{subsection.244}
+\contentsline {section}{\numberline {A.2}Discussion}{120}{section.249}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{7}{dummy.16}
+\contentsline {chapter}{\numberline {B}Extensions of Tubularity Flow Field}{121}{appendix.250}
+\contentsline {section}{\numberline {B.1}Vessel Contrast Enhancement With Local Directional Evidence}{122}{section.251}
+\contentsline {subsection}{\numberline {B.1.1}Vessel detection with oriented filters}{122}{subsection.253}
+\contentsline {subsection}{\numberline {B.1.2}Vessel enhancement with local directional evidence (LDE)}{125}{subsection.258}
+\contentsline {subsection}{\numberline {B.1.3}Discussion of LDE}{127}{subsection.264}
+\contentsline {section}{\numberline {B.2}Edge assisted TuFF}{128}{section.265}
+\contentsline {section}{\numberline {B.3}Application: automatic crack detection}{129}{section.267}
+\contentsline {chapter}{\numberline {C}Derivations of the mathematical results}{130}{appendix.268}
+\contentsline {section}{\numberline {C.1}Derivation of L2S equation (\ref {eq:l2s_gradient_flow})}{130}{section.269}
+\contentsline {section}{\numberline {C.2}Derivation of TuFF equation (\ref {eq:evolve_force})}{131}{section.270}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{134}{dummy.279}

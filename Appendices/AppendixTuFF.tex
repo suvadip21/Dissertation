@@ -1,0 +1,96 @@
+% Appendix Template
+
+\chapter{Derivations of the mathematical results} % Main appendix title
+
+\label{AppendixTuFF} % Change X to a consecutive letter; for referencing this appendix elsewhere, use \ref{AppendixX}
+
+\lhead{Appendix C. \emph{Derivations}} % Change X to a consecutive letter; this is for the header on each page - perhaps a shortened title
+\section{Derivation of L2S equation (\ref{eq:l2s_gradient_flow})}
+The data term in (\ref{eq:leg_cv_mat}) is written as
+\bean
+\mathcal{E}_d(\phi,\alpha_i,\beta_i)=& \displaystyle\int_{\Omega}|f(\textbf{x})-\sum_{i}\alpha_i\mathcal{P}_i(\textbf{x})|^2 m_1(\textbf{x})+\displaystyle\int_{\Omega}|f(\textbf{x})-\sum_{i}\beta_i\mathcal{P}_i(\textbf{x})|^2m_2(\textbf{x}) d\textbf{x} \\
+&+\lambda_1 ||\textbf{a}||^2 + \lambda_2 ||\textbf{\textbf{b}}||^2 
+\eean
+We use alternate minimization to compute the locally optimum vectors $\textbf{a}=\left(\alpha_0,\ldots,\alpha_{N-1} \right)^T$ and $\textbf{b}=\left(\beta_0,\ldots,\beta_{N-1} \right)^T$ by setting $\dfrac{d\mathcal{E}}{d\alpha_j}=0$ and $\dfrac{d\mathcal{E}}{d\alpha_j}=0$ respectively and solving for $\alpha_j$ and $\beta_j$, $\forall i,j \in \left[0,\ldots,N-1\right]$ . Taking the derivatives we obtain:
+\bean
+&\dfrac{d\mathcal{E}}{d\alpha_j}= 2\displaystyle\int \left(f(\textbf{x})-\sum_{i}\alpha_i\mathcal{P}_i(\textbf{x})\right)\mathcal{P}_j(\textbf{x}) m_1(\textbf{x})d\textbf{x}+2\lambda_1\alpha_j = 0 \\
+\text{or,}  &\displaystyle\int\left(\sum_i \alpha_i\mathcal{P}_i(\textbf{x})\right)\mathcal{P}_j(\textbf{x})m_1(\textbf{x})d\textbf{x} +\lambda_1\alpha_j= \displaystyle \int f(\textbf{x})\mathcal{P}_j(\textbf{x})m_1(\textbf{x})d\textbf{x} \\
+\text{or,} & \displaystyle \sum_i \alpha_i \underbrace{\int \mathcal{P}_i(\textbf{x})\mathcal{P}_j(\textbf{x})m_1(\textbf{x})d\textbf{x}}_{\left[K\right]_{i,j}} +\lambda_1\alpha_j= \underbrace{\int \mathcal{P}_j(\textbf{x})f(\textbf{x})m_1(\textbf{x}) d\textbf{x}}_{p_j}
+\eean
+The above equation can be written in a matrix vector form as
+\bean
+&\left[K+\lambda_1\mathbb{I}\right]\textbf{a} = \textbf{p} \\
+\text{or,} & \hat{\textbf{a}} = \left[K+\lambda_1\mathbb{I}\right]^{-1}\textbf{p}
+\eean
+Here $\textbf{p} =\left(p_0,\ldots,p_{N-1} \right)^T$. Using, similar arguments, we can also derive
+$\hat{\textbf{b}} = \left[L+\lambda_1\mathbb{I}\right]^{-1}\textbf{q}$, 
+where $\left[L\right]_{i,j} = \displaystyle \int \mathcal{P}_i(\textbf{x})\mathcal{P}_j(\textbf{x})m_2(\textbf{x})d\textbf{x}$ and $q_j = \displaystyle \int f(\textbf{x})\mathcal{P}_j(\textbf{x})m_2(\textbf{x})d\textbf{x}$ respectively.
+
+Once the coefficient vectors are obtained, we proceed to solve for the locally optimum level set function $\phi^* = \nabla_\phi \mathcal{E}_d(\phi,\hat{\textbf{a}},\hat{\textbf{b}})$ using variational calculus. The derivation is trivial, and we refer the reader to \cite{chan_vese} for the details.
+
+\section{Derivation of TuFF equation (\ref{eq:evolve_force})}
+We provide the derivation of (\ref{eq:evolve_force}) for 2D, ie. $\textbf{x}=\left(x,y\right)^T$. The TuFF vector fields are given by $\textbf{v}_1=(v_{11},v_{12})^T$ and $\textbf{v}_2=(v_{21},v_{22})^T$; the dependency on $\textbf{x}$ implied.  The extension to 3-D is simple and follows from this derivation. We can rewrite $\mathcal{E}_{reg}(\phi)=\int E_1(\phi)d\textbf{x}$, where $E_1(\phi)=\nu_1\gradphimag{\textbf{x}}\dirac(\phi)$. Then by calculus of variation, the Gateaux  variation of $\mathcal{E}_{reg}$ can be obtained as:
+\bea
+\frac{\delta\mathcal{E}_{reg}}{\delta\phi}=\frac{\partial E_1}{\partial\phi} -\frac{\partial}{\partial x}\left(\frac{\partial E_1}{\partial \phi_x}\right)
+-\frac{\partial}{\partial y}\left(\frac{\partial E_1}{\partial \phi_y}\right)
+\label{app:1}
+\eea
+Since the proof is already shown in \cite{chan_vese}, we merely state the result as follows:
+\bea
+\frac{\delta\mathcal{E}_{reg}}{\delta\phi}=-\nu_1  \text{div}\left(\frac{\nabla \phi}{|\nabla \phi|}\right)\dirac(\phi) 
+\eea
+
+
+
+Similarly, we can write the evolution energy as $\mathcal{E}_{evolve}(\phi)=\int E_2(\phi)d\textbf{x}$. This can be expanded as $E_2(\phi)=A_1(\phi)+ A_2(\phi)$, where $A_j(\phi)=\alpha_j \langle \textbf{v}_j,\frac{\nabla \phi}{|\nabla \phi|}\rangle ^2\heav(\phi)$. The dependency of $\alpha,\phi$ and $\textbf{v}_j$ on $\textbf{x}$ is implied, and hence not mentioned explicitly.
+
+
+We can further decompose $A_1$ as
+\bean
+A_1(\phi) = -\alpha_1 \frac{(v_{11}\phi_x + v_{12}\phi_y)^2}{\phi_x^2+\phi_y^2}\heav(\phi)
+\eean
+
+Let us denote $\beta_j=\langle \textbf{v}_j,\textbf{n}\rangle$, where the unit normal vector $\textbf{n}=\frac{\nabla \phi}{|\nabla \phi|}$. Therefore, we can write $A_1(\phi)=-\alpha_1 \beta_1^2 \heav(\phi)$.
+
+As earlier, we compute the Gateaux derivative as follows:
+
+\bea
+\frac{\partial A_1}{\partial\phi}=-\alpha_1 \beta_1^2\dirac(\phi)
+\eea
+
+
+Also, by simple algebraic manipulation, we obtain
+\bean
+\frac{\partial A_1}{\partial\phi_x}=-2\left[\frac{\alpha_1\beta_1}{|\nabla \phi|}v_{11}-\alpha_1 \left( \frac{\beta_1}{|\nabla \phi|}\right)^2\phi_x
+\right]\heav(\phi) \\
+\frac{\partial A_1}{\partial\phi_y}=-2\left[\frac{\alpha_1\beta_1}{|\nabla \phi|}v_{12}-\alpha_1 \left( \frac{\beta_1}{|\nabla \phi|}\right)^2\phi_y
+\right]\heav(\phi) 
+\eean
+Therefore, we have 
+\bea
+\frac{\partial}{\partial x}\left(\frac{\partial A_1}{\partial \phi_x }\right)= -2\left[ \frac{\partial}{\partial x}\left(\eta_1 v_{11}\right) - \frac{\partial}{\partial x }\left(\eta_1 \beta_1 \frac{\phi_x}{|\nabla \phi|}\right)
+\right] \\
+\frac{\partial}{\partial y}\left(\frac{\partial A_1}{\partial \phi_y }\right)= -2\left[ \frac{\partial}{\partial y}\left(\eta_1 v_{12}\right) - \frac{\partial}{\partial y }\left(\eta_1 \beta_1 \frac{\phi_y}{|\nabla \phi|}\right)
+\right]
+\eea
+Where $\eta_j = \frac{\alpha_j \beta_j}{|\nabla \phi|}\heav(\phi)$. Therefore, by symmetry we compute 
+\bea
+\frac{\partial}{\partial x}\left(\frac{\partial A_j}{\partial \phi_x }\right)+\frac{\partial}{\partial y}\left(\frac{\partial A_j}{\partial \phi_y }\right)=
+-2\text{div} \left[\left(\eta_j\right)\left(\textbf{v}_j-\beta_j \textbf{n}\right)
+\right]
+\eea
+The Gateaux  variation of $\mathcal{E}_{evolve}$ can be obtained as:
+\bea
+\frac{\delta\mathcal{E}_{evolve}}{\delta\phi}=\frac{\partial E_2}{\partial\phi} -\frac{\partial}{\partial x}\left(\frac{\partial E_2}{\partial \phi_x}\right)
+-\frac{\partial}{\partial y}\left(\frac{\partial E_2}{\partial \phi_y}\right)
+\label{app:2}
+\eea
+We now use gradient descent to find the local minima of the functionals. The regularizer force and evolution forces are given by $\mathcal{F}_{reg}=-\frac{\delta\mathcal{E}_{reg}}{\delta \phi}$ and $\mathcal{F}_{evolve}=-\frac{\delta\mathcal{E}_{evolve}}{\delta \phi}$ which leads to the following equations:
+\bea
+\mathcal{F}_{reg}=\nu_1  \text{div}\left(\frac{\nabla \phi}{|\nabla \phi|}\right)
+\eea
+and
+\bea
+\mathcal{F}_{evolve}=\sum_{j=1}^{d}\left(\alpha_j\beta_j^2\dirac\left(\phi\right)- 2\text{div}\left[\eta_{\mathit{j}} \left(\textbf{v}_j-\beta_{\mathit{j}} \textbf{n}\right)\right]\right)
+\eea
+

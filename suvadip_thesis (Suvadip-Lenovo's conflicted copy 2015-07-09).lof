@@ -1,0 +1,58 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 3D neuron example}}{6}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Imaging artifacts}}{12}{figure.caption.26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tree2Tree-2: workflow}}{21}{figure.caption.39}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Tubularity field}}{22}{figure.caption.43}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tree2Tree-2: Initial segmentation}}{23}{figure.caption.49}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces T2T2: establishing global graph}}{26}{figure.caption.55}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces VFC medialness}}{29}{figure.caption.66}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Tree2Tree-2 graph pruning}}{32}{figure.caption.73}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Tree2Tree-2: 2D results}}{33}{figure.caption.74}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Tree2Tree-2: 3D results}}{35}{figure.caption.76}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Tree2Tree-2: connectivity errors}}{37}{figure.caption.78}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Motion by mean curvature.}}{42}{figure.caption.88}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces GAC vs Malladi-Sethian model}}{43}{figure.caption.92}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Edge based model vs region based model}}{55}{figure.caption.112}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Geometric Snakes: negative examples}}{56}{figure.caption.114}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 2D Legendre polynomials}}{63}{figure.caption.126}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces L2S vs GAC vs Chan-Vese}}{68}{figure.caption.135}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces L2S on vascular images}}{70}{figure.caption.137}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces L2S on vascular images}}{71}{figure.caption.138}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Quantitative comparison of L2S}}{73}{figure.caption.141}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Computational comparison for L2S}}{73}{figure.caption.143}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Gaps in neuron structures}}{77}{figure.caption.147}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Global segmentation of neurites}}{78}{figure.caption.149}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{78}{figure.caption.149}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{78}{figure.caption.149}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{78}{figure.caption.149}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{78}{figure.caption.149}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Graphic illustration of TuFF}}{81}{figure.caption.159}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces (a) Set of disjoint connected components $\{c_1,c_2,c_3\}$ at a particular step of iteration. (b) shows a parent component, the green dotted line marking its convex hull. The remaining children are shown in (c). (d) shows the attraction force obtained via (\ref {eq:Attr_Field}) in red arrows, magnified for visual clarity.\relax }}{87}{figure.caption.176}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{87}{figure.caption.176}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{87}{figure.caption.176}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{87}{figure.caption.176}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{87}{figure.caption.176}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Two types of discontinuities between the disjoint components. The \emph {Type A} discontinuity can be resolved by joining the end points of the center lines of the respective branches. \emph {Type B} is more difficult, where discontinuity occurs between a branch end point and an intermediate point on the centerline of the other branch.\relax }}{91}{figure.caption.190}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces (a) and (b) shows the original image and the initial global segmentation respectively for two cases demonstrating handling of Type A (top row) and Type B (bottom row) discontinuities. (c)-(f) shows segmentation at subsequent time intervals. (g) shows the final segmentation, where the structure gaps have been closed (the merged portions are enclosed in rectangles). \relax }}{92}{figure.caption.192}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Sensitivity analysis of the parameters. The mean absolute error of the traced centerline are plotted in the vertical axis for different values of the tuning parameters.\relax }}{95}{figure.caption.199}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces TuFF for subcuticle layer neurons}}{97}{figure.caption.201}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces TuFF vs Tree2Tree}}{98}{figure.caption.203}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces TuFF vs Tree2Tree for Type B error (2D)}}{99}{figure.caption.204}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces TuFF vs Tree2Tree for type B connection (3D)}}{100}{figure.caption.205}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces TuFF tracing results in 3D}}{101}{figure.caption.207}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces TuFF tracing results -- 1}}{104}{figure.caption.212}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces TuFF tracing results -- 2}}{106}{figure.caption.217}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Quantitative performance comparison}}{107}{figure.caption.220}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Chan-Vese vs DL2S}}{112}{figure.caption.25}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces DL2S curve evolution}}{115}{figure.caption.34}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces DL2S dictionary}}{116}{figure.caption.36}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces DL2S initialization robustness}}{117}{figure.caption.38}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Qualitative comparison of DL2S}}{118}{figure.caption.39}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces DL2S comparison of basis elements}}{119}{figure.caption.40}
+\addvspace {10\p@ }
